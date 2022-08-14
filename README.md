@@ -4,7 +4,7 @@ Waterloop's BMS team electrical work for G6
 To clone:
 
 ```bash
-git clone https://github.com/waterloop/New_BMS.git
+git clone https://github.com/waterloop/electrical-G6-BMS.git
 cd New_BMS/
 
 ./install.sh
