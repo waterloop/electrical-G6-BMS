@@ -5,7 +5,7 @@ To clone:
 
 ```bash
 git clone https://github.com/waterloop/electrical-G6-BMS.git
-cd New_BMS/
+cd electrical-G6-BMS/
 
 ./install.sh
 ```
