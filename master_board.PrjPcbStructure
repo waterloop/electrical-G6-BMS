@@ -1,4 +1,6 @@
-Record=TopLevelDocument|FileName=drivers.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=drivers.SchDoc|FileName=ISO_SPI.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=drivers.SchDoc|FileName=LV_Sensing.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=drivers.SchDoc|FileName=MCU_Platform.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Connectors.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Connectors.SchDoc|Designator=U_Contactor|SchDesignator=U_Contactor|FileName=Contactor.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=Contactor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Connectors.SchDoc|Designator=U_ISO_SPI|SchDesignator=U_ISO_SPI|FileName=ISO_SPI.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=ISO_SPI.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Connectors.SchDoc|Designator=U_LV_Sensing|SchDesignator=U_LV_Sensing|FileName=LV_Sensing.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=LV_Sensing.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Connectors.SchDoc|Designator=U_MCU_Platform|SchDesignator=U_MCU_Platform|FileName=MCU_Platform.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=MCU_Platform.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Connectors.SchDoc|Designator=U_Precharge|SchDesignator=U_Precharge|FileName=Precharge.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=Precharge.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
