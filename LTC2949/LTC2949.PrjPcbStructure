@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=LTC2949_Top.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=LTC2949_Top.SchDoc|Designator=CONNECTORS|SchDesignator=CONNECTORS|FileName=LTC2949_Connectors.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=LTC2949_Connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=LTC2949_Top.SchDoc|Designator=MAIN IC|SchDesignator=MAIN IC|FileName=LTC2949.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=LTC2949.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
