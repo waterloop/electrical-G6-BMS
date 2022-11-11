@@ -1,0 +1,165 @@
+Change Component DesignItemId : Designator=C1_CELL1 Old DesignItemId=Cap New DesignItemId=Capacitor - Nonpolarized
+Change Component DesignItemId : Designator=C1_CELL2 Old DesignItemId=Cap New DesignItemId=Capacitor - Nonpolarized
+Change Component DesignItemId : Designator=C1_CELL3 Old DesignItemId=Cap New DesignItemId=Capacitor - Nonpolarized
+Change Component DesignItemId : Designator=C1_CELL4 Old DesignItemId=Cap New DesignItemId=Capacitor - Nonpolarized
+Change Component DesignItemId : Designator=C1_CELL5 Old DesignItemId=Cap New DesignItemId=Capacitor - Nonpolarized
+Change Component DesignItemId : Designator=C1_CELL6 Old DesignItemId=Cap New DesignItemId=Capacitor - Nonpolarized
+Change Component DesignItemId : Designator=C1_CELL7 Old DesignItemId=Cap New DesignItemId=Capacitor - Nonpolarized
+Change Component DesignItemId : Designator=C1_CELL8 Old DesignItemId=Cap New DesignItemId=Capacitor - Nonpolarized
+Change Component DesignItemId : Designator=C1_CELL9 Old DesignItemId=Cap New DesignItemId=Capacitor - Nonpolarized
+Change Component DesignItemId : Designator=C1_CELL10 Old DesignItemId=Cap New DesignItemId=Capacitor - Nonpolarized
+Change Component DesignItemId : Designator=C1_CELL11 Old DesignItemId=Cap New DesignItemId=Capacitor - Nonpolarized
+Change Component Footprint: Designator=C1_CELL1 Old Footprint=RAD-0.3 New Footprint=0603 - Capacitor
+Change Component Footprint: Designator=C1_CELL2 Old Footprint=RAD-0.3 New Footprint=0603 - Capacitor
+Change Component Footprint: Designator=C1_CELL3 Old Footprint=RAD-0.3 New Footprint=0603 - Capacitor
+Change Component Footprint: Designator=C1_CELL4 Old Footprint=RAD-0.3 New Footprint=0603 - Capacitor
+Change Component Footprint: Designator=C1_CELL5 Old Footprint=RAD-0.3 New Footprint=0603 - Capacitor
+Change Component Footprint: Designator=C1_CELL6 Old Footprint=RAD-0.3 New Footprint=0603 - Capacitor
+Change Component Footprint: Designator=C1_CELL7 Old Footprint=RAD-0.3 New Footprint=0603 - Capacitor
+Change Component Footprint: Designator=C1_CELL8 Old Footprint=RAD-0.3 New Footprint=0603 - Capacitor
+Change Component Footprint: Designator=C1_CELL9 Old Footprint=RAD-0.3 New Footprint=0603 - Capacitor
+Change Component Footprint: Designator=C1_CELL10 Old Footprint=RAD-0.3 New Footprint=0603 - Capacitor
+Change Component Footprint: Designator=C1_CELL11 Old Footprint=RAD-0.3 New Footprint=0603 - Capacitor
+Change Component Comment : Designator=C1_CELL1 Old Comment=Cap New Comment=Capacitor - Nonpolarized
+Change Component Comment : Designator=C1_CELL2 Old Comment=Cap New Comment=Capacitor - Nonpolarized
+Change Component Comment : Designator=C1_CELL3 Old Comment=Cap New Comment=Capacitor - Nonpolarized
+Change Component Comment : Designator=C1_CELL4 Old Comment=Cap New Comment=Capacitor - Nonpolarized
+Change Component Comment : Designator=C1_CELL5 Old Comment=Cap New Comment=Capacitor - Nonpolarized
+Change Component Comment : Designator=C1_CELL6 Old Comment=Cap New Comment=Capacitor - Nonpolarized
+Change Component Comment : Designator=C1_CELL7 Old Comment=Cap New Comment=Capacitor - Nonpolarized
+Change Component Comment : Designator=C1_CELL8 Old Comment=Cap New Comment=Capacitor - Nonpolarized
+Change Component Comment : Designator=C1_CELL9 Old Comment=Cap New Comment=Capacitor - Nonpolarized
+Change Component Comment : Designator=C1_CELL10 Old Comment=Cap New Comment=Capacitor - Nonpolarized
+Change Component Comment : Designator=C1_CELL11 Old Comment=Cap New Comment=Capacitor - Nonpolarized
+Change Component Description : Designator=C1_CELL1 Old Description=Capacitor New Description=Nonpolarized Capacitor
+Change Component Description : Designator=C1_CELL2 Old Description=Capacitor New Description=Nonpolarized Capacitor
+Change Component Description : Designator=C1_CELL3 Old Description=Capacitor New Description=Nonpolarized Capacitor
+Change Component Description : Designator=C1_CELL4 Old Description=Capacitor New Description=Nonpolarized Capacitor
+Change Component Description : Designator=C1_CELL5 Old Description=Capacitor New Description=Nonpolarized Capacitor
+Change Component Description : Designator=C1_CELL6 Old Description=Capacitor New Description=Nonpolarized Capacitor
+Change Component Description : Designator=C1_CELL7 Old Description=Capacitor New Description=Nonpolarized Capacitor
+Change Component Description : Designator=C1_CELL8 Old Description=Capacitor New Description=Nonpolarized Capacitor
+Change Component Description : Designator=C1_CELL9 Old Description=Capacitor New Description=Nonpolarized Capacitor
+Change Component Description : Designator=C1_CELL10 Old Description=Capacitor New Description=Nonpolarized Capacitor
+Change Component Description : Designator=C1_CELL11 Old Description=Capacitor New Description=Nonpolarized Capacitor
+Change Component Library : Designator=C1_CELL1 Old Library=Miscellaneous Devices.IntLib New Library=General.SchLib
+Change Component Library : Designator=C1_CELL2 Old Library=Miscellaneous Devices.IntLib New Library=General.SchLib
+Change Component Library : Designator=C1_CELL3 Old Library=Miscellaneous Devices.IntLib New Library=General.SchLib
+Change Component Library : Designator=C1_CELL4 Old Library=Miscellaneous Devices.IntLib New Library=General.SchLib
+Change Component Library : Designator=C1_CELL5 Old Library=Miscellaneous Devices.IntLib New Library=General.SchLib
+Change Component Library : Designator=C1_CELL6 Old Library=Miscellaneous Devices.IntLib New Library=General.SchLib
+Change Component Library : Designator=C1_CELL7 Old Library=Miscellaneous Devices.IntLib New Library=General.SchLib
+Change Component Library : Designator=C1_CELL8 Old Library=Miscellaneous Devices.IntLib New Library=General.SchLib
+Change Component Library : Designator=C1_CELL9 Old Library=Miscellaneous Devices.IntLib New Library=General.SchLib
+Change Component Library : Designator=C1_CELL10 Old Library=Miscellaneous Devices.IntLib New Library=General.SchLib
+Change Component Library : Designator=C1_CELL11 Old Library=Miscellaneous Devices.IntLib New Library=General.SchLib
+Change component parameters: Designator = "C1_CELL1" ("C1"); Footprint = "RAD-0.3"; UniqueID = "\DASLTLNN\LGGPSFEU" ("\DASLTLNN\LGGPSFEU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1_CELL2" ("C1"); Footprint = "RAD-0.3"; UniqueID = "\VQEMRBCX\LGGPSFEU" ("\VQEMRBCX\LGGPSFEU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1_CELL3" ("C1"); Footprint = "RAD-0.3"; UniqueID = "\MVPXMEJG\LGGPSFEU" ("\MVPXMEJG\LGGPSFEU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1_CELL4" ("C1"); Footprint = "RAD-0.3"; UniqueID = "\NKNYGTTK\LGGPSFEU" ("\NKNYGTTK\LGGPSFEU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1_CELL5" ("C1"); Footprint = "RAD-0.3"; UniqueID = "\QMCHPLKJ\LGGPSFEU" ("\QMCHPLKJ\LGGPSFEU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1_CELL6" ("C1"); Footprint = "RAD-0.3"; UniqueID = "\CVVGBTIG\LGGPSFEU" ("\CVVGBTIG\LGGPSFEU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1_CELL7" ("C1"); Footprint = "RAD-0.3"; UniqueID = "\FIHSWJKJ\LGGPSFEU" ("\FIHSWJKJ\LGGPSFEU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1_CELL8" ("C1"); Footprint = "RAD-0.3"; UniqueID = "\KDWHIGBT\LGGPSFEU" ("\KDWHIGBT\LGGPSFEU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1_CELL9" ("C1"); Footprint = "RAD-0.3"; UniqueID = "\VLDHJTMJ\LGGPSFEU" ("\VLDHJTMJ\LGGPSFEU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1_CELL10" ("C1"); Footprint = "RAD-0.3"; UniqueID = "\FSSUBIRG\LGGPSFEU" ("\FSSUBIRG\LGGPSFEU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1_CELL11" ("C1"); Footprint = "RAD-0.3"; UniqueID = "\ODHIDLYA\LGGPSFEU" ("\ODHIDLYA\LGGPSFEU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin Q1_CELL1-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL1-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL1-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL2-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL2-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL2-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL3-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL3-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL3-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL4-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL4-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL4-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL5-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL5-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL5-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL6-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL6-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL6-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL7-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL7-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL7-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL8-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL8-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL8-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL9-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL9-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL9-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL10-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL10-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL10-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL11-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL11-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL11-S

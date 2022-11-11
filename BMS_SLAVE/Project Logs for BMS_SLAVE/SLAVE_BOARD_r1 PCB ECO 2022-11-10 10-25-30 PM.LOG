@@ -1,0 +1,985 @@
+Added Component: Designator=C1_CELL1(0603 - Capacitor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Added Component: Designator=C1_CELL2(0603 - Capacitor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Added Component: Designator=C1_CELL3(0603 - Capacitor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Added Component: Designator=C1_CELL4(0603 - Capacitor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Added Component: Designator=C1_CELL5(0603 - Capacitor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Added Component: Designator=C1_CELL6(0603 - Capacitor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Added Component: Designator=C1_CELL7(0603 - Capacitor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Added Component: Designator=C1_CELL8(0603 - Capacitor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Added Component: Designator=C1_CELL9(0603 - Capacitor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Added Component: Designator=C1_CELL10(0603 - Capacitor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Added Component: Designator=C1_CELL11(0603 - Capacitor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Added Component: Designator=C2(RAD-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(0603 - Capacitor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(0603 - Capacitor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(RAD-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(RAD-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Added Component: Designator=C8_IA(0603 - Capacitor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C8_IB(0603 - Capacitor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C9_IA(RAD-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C9_IB(RAD-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?_IA(0603 - Capacitor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C?_IB(0603 - Capacitor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(0805 - DIODE)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1(MOLEX0039301021)
+Added Component: Designator=J2(MOLEX0039301021)
+Added Component: Designator=P1(HDR1X6)
+Added Component: Designator=P2(HDR1X6)
+Added Component: Designator=P3(HDR1X6)
+Added Component: Designator=Q2(DXT5551P5)
+Added Component: Designator=R1_CELL1(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R1_CELL2(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R1_CELL3(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R1_CELL4(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R1_CELL5(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R1_CELL6(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R1_CELL7(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R1_CELL8(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R1_CELL9(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R1_CELL10(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R1_CELL11(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R2_CELL1(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3k"; VariantName = "[No Variations]"
+Added Component: Designator=R2_CELL2(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3k"; VariantName = "[No Variations]"
+Added Component: Designator=R2_CELL3(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3k"; VariantName = "[No Variations]"
+Added Component: Designator=R2_CELL4(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3k"; VariantName = "[No Variations]"
+Added Component: Designator=R2_CELL5(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3k"; VariantName = "[No Variations]"
+Added Component: Designator=R2_CELL6(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3k"; VariantName = "[No Variations]"
+Added Component: Designator=R2_CELL7(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3k"; VariantName = "[No Variations]"
+Added Component: Designator=R2_CELL8(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3k"; VariantName = "[No Variations]"
+Added Component: Designator=R2_CELL9(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3k"; VariantName = "[No Variations]"
+Added Component: Designator=R2_CELL10(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3k"; VariantName = "[No Variations]"
+Added Component: Designator=R2_CELL11(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3k"; VariantName = "[No Variations]"
+Added Component: Designator=R3_CELL1(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15"; VariantName = "[No Variations]"
+Added Component: Designator=R3_CELL2(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15"; VariantName = "[No Variations]"
+Added Component: Designator=R3_CELL3(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15"; VariantName = "[No Variations]"
+Added Component: Designator=R3_CELL4(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15"; VariantName = "[No Variations]"
+Added Component: Designator=R3_CELL5(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15"; VariantName = "[No Variations]"
+Added Component: Designator=R3_CELL6(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15"; VariantName = "[No Variations]"
+Added Component: Designator=R3_CELL7(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15"; VariantName = "[No Variations]"
+Added Component: Designator=R3_CELL8(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15"; VariantName = "[No Variations]"
+Added Component: Designator=R3_CELL9(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15"; VariantName = "[No Variations]"
+Added Component: Designator=R3_CELL10(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15"; VariantName = "[No Variations]"
+Added Component: Designator=R3_CELL11(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15"; VariantName = "[No Variations]"
+Added Component: Designator=R4_CELL1(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R4_CELL2(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R4_CELL3(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R4_CELL4(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R4_CELL5(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R4_CELL6(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R4_CELL7(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R4_CELL8(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R4_CELL9(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R4_CELL10(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R4_CELL11(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R5(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3k"; VariantName = "[No Variations]"
+Added Component: Designator=R6(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R7(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R8(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Added Component: Designator=R9(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R10(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R11(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R12(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R13(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R14_IA(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49.9"; VariantName = "[No Variations]"
+Added Component: Designator=R14_IB(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49.9"; VariantName = "[No Variations]"
+Added Component: Designator=R15_IA(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49.9"; VariantName = "[No Variations]"
+Added Component: Designator=R15_IB(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "49.9"; VariantName = "[No Variations]"
+Added Component: Designator=R16(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=T1_IA(HM2101NLT)
+Added Component: Designator=T1_IB(HM2101NLT)
+Added Component: Designator=U1(LTC6811IG-2#3ZZPBF)
+Add component (AddParameter): Name = "Analog IC - Other Type"; Value = "POWER SUPPLY MANAGEMENT CIRCUIT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Battery Management"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/LITC/LITC-S-A0003389121/LITC-S-A0003389121-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.analog.com/media/en/technical-documentation/data-sheets/LTC6811-1-6811-2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Analog Devices / Linear Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LTC6811HG-1#3ZZTRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=21.45000, 10=19.72000, 25=18.91000, 50=18.91000, 100=18.91000, 111=16.65000, 1000=16.65000, 10000=16.65000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 2"; Value = "1=22.70000, 10=20.93000, 50=20.00000, 100=17.88000, 1000=16.64000, 10000=16.64000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "584-6811HG-1#3ZZTRPB"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_CELL1_1 Pin=C1_CELL1-1
+Added Pin To Net: NetName=C1_+ Pin=C1_CELL1-2
+Added Pin To Net: NetName=NetC1_CELL2_1 Pin=C1_CELL2-1
+Added Pin To Net: NetName=C2_+ Pin=C1_CELL2-2
+Added Pin To Net: NetName=NetC1_CELL3_1 Pin=C1_CELL3-1
+Added Pin To Net: NetName=C3_+ Pin=C1_CELL3-2
+Added Pin To Net: NetName=NetC1_CELL4_1 Pin=C1_CELL4-1
+Added Pin To Net: NetName=C4_+ Pin=C1_CELL4-2
+Added Pin To Net: NetName=NetC1_CELL5_1 Pin=C1_CELL5-1
+Added Pin To Net: NetName=C5_+ Pin=C1_CELL5-2
+Added Pin To Net: NetName=NetC1_CELL6_1 Pin=C1_CELL6-1
+Added Pin To Net: NetName=C6_+ Pin=C1_CELL6-2
+Added Pin To Net: NetName=NetC1_CELL7_1 Pin=C1_CELL7-1
+Added Pin To Net: NetName=C7_+ Pin=C1_CELL7-2
+Added Pin To Net: NetName=NetC1_CELL8_1 Pin=C1_CELL8-1
+Added Pin To Net: NetName=C8_+ Pin=C1_CELL8-2
+Added Pin To Net: NetName=NetC1_CELL9_1 Pin=C1_CELL9-1
+Added Pin To Net: NetName=C9_+ Pin=C1_CELL9-2
+Added Pin To Net: NetName=NetC1_CELL10_1 Pin=C1_CELL10-1
+Added Pin To Net: NetName=C10_+ Pin=C1_CELL10-2
+Added Pin To Net: NetName=NetC1_CELL11_1 Pin=C1_CELL11-1
+Added Pin To Net: NetName=C11 Pin=C1_CELL11-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=VREF Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VREG Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=C0 Pin=C6-2
+Added Pin To Net: NetName=PRI_IA_N Pin=C8_IA-2
+Added Pin To Net: NetName=PRI_IB_N Pin=C8_IB-2
+Added Pin To Net: NetName=GND Pin=C9_IA-2
+Added Pin To Net: NetName=GND Pin=C9_IB-2
+Added Pin To Net: NetName=PRI_IA_P Pin=C?_IA-1
+Added Pin To Net: NetName=PRI_IB_P Pin=C?_IB-1
+Added Pin To Net: NetName=WDT Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=ISO_IB_P Pin=J1-1
+Added Pin To Net: NetName=ISO_IB_N Pin=J1-2
+Added Pin To Net: NetName=ISO_IA_P Pin=J2-1
+Added Pin To Net: NetName=ISO_IA_N Pin=J2-2
+Added Pin To Net: NetName=C6_+ Pin=P1-1
+Added Pin To Net: NetName=C7_+ Pin=P1-2
+Added Pin To Net: NetName=C8_+ Pin=P1-3
+Added Pin To Net: NetName=C9_+ Pin=P1-4
+Added Pin To Net: NetName=C10_+ Pin=P1-5
+Added Pin To Net: NetName=C11 Pin=P1-6
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=C1_+ Pin=P2-2
+Added Pin To Net: NetName=C2_+ Pin=P2-3
+Added Pin To Net: NetName=C3_+ Pin=P2-4
+Added Pin To Net: NetName=C4_+ Pin=P2-5
+Added Pin To Net: NetName=C5_+ Pin=P2-6
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=GPIO1 Pin=P3-2
+Added Pin To Net: NetName=GPIO2 Pin=P3-3
+Added Pin To Net: NetName=GPIO3 Pin=P3-4
+Added Pin To Net: NetName=GPIO4 Pin=P3-5
+Added Pin To Net: NetName=GPIO5 Pin=P3-6
+Add Pin To Net: Unknown Pin: Pin Q1_CELL1-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL1-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL1-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL2-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL2-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL2-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL3-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL3-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL3-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL4-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL4-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL4-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL5-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL5-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL5-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL6-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL6-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL6-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL7-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL7-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL7-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL8-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL8-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL8-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL9-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL9-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL9-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL10-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL10-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL10-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL11-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL11-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL11-S
+Added Pin To Net: NetName=NetQ2_B Pin=Q2-B
+Added Pin To Net: NetName=NetC2_2 Pin=Q2-C
+Added Pin To Net: NetName=VREG Pin=Q2-E
+Added Pin To Net: NetName=C1 Pin=R1_CELL1-1
+Added Pin To Net: NetName=C1_+ Pin=R1_CELL1-2
+Added Pin To Net: NetName=C2 Pin=R1_CELL2-1
+Added Pin To Net: NetName=C2_+ Pin=R1_CELL2-2
+Added Pin To Net: NetName=C3 Pin=R1_CELL3-1
+Added Pin To Net: NetName=C3_+ Pin=R1_CELL3-2
+Added Pin To Net: NetName=C4 Pin=R1_CELL4-1
+Added Pin To Net: NetName=C4_+ Pin=R1_CELL4-2
+Added Pin To Net: NetName=C5 Pin=R1_CELL5-1
+Added Pin To Net: NetName=C5_+ Pin=R1_CELL5-2
+Added Pin To Net: NetName=NetR1_CELL6_1 Pin=R1_CELL6-1
+Added Pin To Net: NetName=C6_+ Pin=R1_CELL6-2
+Added Pin To Net: NetName=C6 Pin=R1_CELL7-1
+Added Pin To Net: NetName=C7_+ Pin=R1_CELL7-2
+Added Pin To Net: NetName=C8 Pin=R1_CELL8-1
+Added Pin To Net: NetName=C8_+ Pin=R1_CELL8-2
+Added Pin To Net: NetName=C9 Pin=R1_CELL9-1
+Added Pin To Net: NetName=C9_+ Pin=R1_CELL9-2
+Added Pin To Net: NetName=C10 Pin=R1_CELL10-1
+Added Pin To Net: NetName=C10_+ Pin=R1_CELL10-2
+Added Pin To Net: NetName=C11 Pin=R1_CELL11-1
+Added Pin To Net: NetName=C11 Pin=R1_CELL11-2
+Added Pin To Net: NetName=S1 Pin=R2_CELL1-1
+Added Pin To Net: NetName=NetQ1_CELL1_G Pin=R2_CELL1-2
+Added Pin To Net: NetName=S2 Pin=R2_CELL2-1
+Added Pin To Net: NetName=NetQ1_CELL2_G Pin=R2_CELL2-2
+Added Pin To Net: NetName=S3 Pin=R2_CELL3-1
+Added Pin To Net: NetName=NetQ1_CELL3_G Pin=R2_CELL3-2
+Added Pin To Net: NetName=S4 Pin=R2_CELL4-1
+Added Pin To Net: NetName=NetQ1_CELL4_G Pin=R2_CELL4-2
+Added Pin To Net: NetName=S5 Pin=R2_CELL5-1
+Added Pin To Net: NetName=NetQ1_CELL5_G Pin=R2_CELL5-2
+Added Pin To Net: NetName=S6 Pin=R2_CELL6-1
+Added Pin To Net: NetName=NetQ1_CELL6_G Pin=R2_CELL6-2
+Added Pin To Net: NetName=S7 Pin=R2_CELL7-1
+Added Pin To Net: NetName=NetQ1_CELL7_G Pin=R2_CELL7-2
+Added Pin To Net: NetName=S8 Pin=R2_CELL8-1
+Added Pin To Net: NetName=NetQ1_CELL8_G Pin=R2_CELL8-2
+Added Pin To Net: NetName=S9 Pin=R2_CELL9-1
+Added Pin To Net: NetName=NetQ1_CELL9_G Pin=R2_CELL9-2
+Added Pin To Net: NetName=S10 Pin=R2_CELL10-1
+Added Pin To Net: NetName=NetQ1_CELL10_G Pin=R2_CELL10-2
+Added Pin To Net: NetName=S11 Pin=R2_CELL11-1
+Added Pin To Net: NetName=NetQ1_CELL11_G Pin=R2_CELL11-2
+Added Pin To Net: NetName=NetC1_CELL1_1 Pin=R3_CELL1-1
+Added Pin To Net: NetName=GND Pin=R3_CELL1-2
+Added Pin To Net: NetName=NetC1_CELL2_1 Pin=R3_CELL2-1
+Added Pin To Net: NetName=C1_+ Pin=R3_CELL2-2
+Added Pin To Net: NetName=NetC1_CELL3_1 Pin=R3_CELL3-1
+Added Pin To Net: NetName=C2_+ Pin=R3_CELL3-2
+Added Pin To Net: NetName=NetC1_CELL4_1 Pin=R3_CELL4-1
+Added Pin To Net: NetName=C3_+ Pin=R3_CELL4-2
+Added Pin To Net: NetName=NetC1_CELL5_1 Pin=R3_CELL5-1
+Added Pin To Net: NetName=C4_+ Pin=R3_CELL5-2
+Added Pin To Net: NetName=NetC1_CELL6_1 Pin=R3_CELL6-1
+Added Pin To Net: NetName=C5_+ Pin=R3_CELL6-2
+Added Pin To Net: NetName=NetC1_CELL7_1 Pin=R3_CELL7-1
+Added Pin To Net: NetName=C6_+ Pin=R3_CELL7-2
+Added Pin To Net: NetName=NetC1_CELL8_1 Pin=R3_CELL8-1
+Added Pin To Net: NetName=C7_+ Pin=R3_CELL8-2
+Added Pin To Net: NetName=NetC1_CELL9_1 Pin=R3_CELL9-1
+Added Pin To Net: NetName=C8_+ Pin=R3_CELL9-2
+Added Pin To Net: NetName=NetC1_CELL10_1 Pin=R3_CELL10-1
+Added Pin To Net: NetName=C9_+ Pin=R3_CELL10-2
+Added Pin To Net: NetName=NetC1_CELL11_1 Pin=R3_CELL11-1
+Added Pin To Net: NetName=C10_+ Pin=R3_CELL11-2
+Added Pin To Net: NetName=C0 Pin=R4_CELL1-1
+Added Pin To Net: NetName=NetC1_CELL1_1 Pin=R4_CELL1-2
+Added Pin To Net: NetName=C1 Pin=R4_CELL2-1
+Added Pin To Net: NetName=NetC1_CELL2_1 Pin=R4_CELL2-2
+Added Pin To Net: NetName=C2 Pin=R4_CELL3-1
+Added Pin To Net: NetName=NetC1_CELL3_1 Pin=R4_CELL3-2
+Added Pin To Net: NetName=C3 Pin=R4_CELL4-1
+Added Pin To Net: NetName=NetC1_CELL4_1 Pin=R4_CELL4-2
+Added Pin To Net: NetName=C4 Pin=R4_CELL5-1
+Added Pin To Net: NetName=NetC1_CELL5_1 Pin=R4_CELL5-2
+Added Pin To Net: NetName=C5 Pin=R4_CELL6-1
+Added Pin To Net: NetName=NetC1_CELL6_1 Pin=R4_CELL6-2
+Added Pin To Net: NetName=NetR1_CELL6_1 Pin=R4_CELL7-1
+Added Pin To Net: NetName=NetC1_CELL7_1 Pin=R4_CELL7-2
+Added Pin To Net: NetName=C7 Pin=R4_CELL8-1
+Added Pin To Net: NetName=NetC1_CELL8_1 Pin=R4_CELL8-2
+Added Pin To Net: NetName=C8 Pin=R4_CELL9-1
+Added Pin To Net: NetName=NetC1_CELL9_1 Pin=R4_CELL9-2
+Added Pin To Net: NetName=C9 Pin=R4_CELL10-1
+Added Pin To Net: NetName=NetC1_CELL10_1 Pin=R4_CELL10-2
+Added Pin To Net: NetName=C10 Pin=R4_CELL11-1
+Added Pin To Net: NetName=NetC1_CELL11_1 Pin=R4_CELL11-2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=NetR5_1 Pin=R6-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetC2_2 Pin=R7-2
+Added Pin To Net: NetName=WDT Pin=R8-1
+Added Pin To Net: NetName=VREG Pin=R8-2
+Added Pin To Net: NetName=GPIO5 Pin=R9-1
+Added Pin To Net: NetName=VREF Pin=R9-2
+Added Pin To Net: NetName=GPIO4 Pin=R10-1
+Added Pin To Net: NetName=VREF Pin=R10-2
+Added Pin To Net: NetName=GPIO3 Pin=R11-1
+Added Pin To Net: NetName=VREF Pin=R11-2
+Added Pin To Net: NetName=GPIO2 Pin=R12-1
+Added Pin To Net: NetName=VREF Pin=R12-2
+Added Pin To Net: NetName=GPIO1 Pin=R13-1
+Added Pin To Net: NetName=VREF Pin=R13-2
+Added Pin To Net: NetName=PRI_IA_P Pin=R14_IA-1
+Added Pin To Net: NetName=PRI_IB_P Pin=R14_IB-1
+Added Pin To Net: NetName=PRI_IA_N Pin=R15_IA-1
+Added Pin To Net: NetName=PRI_IB_N Pin=R15_IB-1
+Added Pin To Net: NetName=C11 Pin=R16-1
+Added Pin To Net: NetName=NetR7_1 Pin=R16-2
+Added Pin To Net: NetName=PRI_IA_P Pin=T1_IA-1
+Added Pin To Net: NetName=PRI_IA_N Pin=T1_IA-3
+Added Pin To Net: NetName=ISO_IA_N Pin=T1_IA-4
+Added Pin To Net: NetName=ISO_IA_P Pin=T1_IA-6
+Added Pin To Net: NetName=PRI_IB_P Pin=T1_IB-1
+Added Pin To Net: NetName=PRI_IB_N Pin=T1_IB-3
+Added Pin To Net: NetName=ISO_IB_N Pin=T1_IB-4
+Added Pin To Net: NetName=ISO_IB_P Pin=T1_IB-6
+Added Pin To Net: NetName=NetR7_1 Pin=U1-1
+Added Pin To Net: NetName=NetR7_1 Pin=U1-2
+Added Pin To Net: NetName=C11 Pin=U1-4
+Added Pin To Net: NetName=S11 Pin=U1-5
+Added Pin To Net: NetName=C10 Pin=U1-6
+Added Pin To Net: NetName=S10 Pin=U1-7
+Added Pin To Net: NetName=C9 Pin=U1-8
+Added Pin To Net: NetName=S9 Pin=U1-9
+Added Pin To Net: NetName=C8 Pin=U1-10
+Added Pin To Net: NetName=S8 Pin=U1-11
+Added Pin To Net: NetName=C7 Pin=U1-12
+Added Pin To Net: NetName=S7 Pin=U1-13
+Added Pin To Net: NetName=C6 Pin=U1-14
+Added Pin To Net: NetName=S6 Pin=U1-15
+Added Pin To Net: NetName=C5 Pin=U1-16
+Added Pin To Net: NetName=S5 Pin=U1-17
+Added Pin To Net: NetName=C4 Pin=U1-18
+Added Pin To Net: NetName=S4 Pin=U1-19
+Added Pin To Net: NetName=C3 Pin=U1-20
+Added Pin To Net: NetName=S3 Pin=U1-21
+Added Pin To Net: NetName=C2 Pin=U1-22
+Added Pin To Net: NetName=S2 Pin=U1-23
+Added Pin To Net: NetName=C1 Pin=U1-24
+Added Pin To Net: NetName=S1 Pin=U1-25
+Added Pin To Net: NetName=C0 Pin=U1-26
+Added Pin To Net: NetName=GPIO1 Pin=U1-27
+Added Pin To Net: NetName=GPIO2 Pin=U1-28
+Added Pin To Net: NetName=GPIO3 Pin=U1-29
+Added Pin To Net: NetName=GND Pin=U1-30
+Added Pin To Net: NetName=GND Pin=U1-31
+Added Pin To Net: NetName=GPIO4 Pin=U1-32
+Added Pin To Net: NetName=GPIO5 Pin=U1-33
+Added Pin To Net: NetName=VREF Pin=U1-34
+Added Pin To Net: NetName=NetC3_2 Pin=U1-35
+Added Pin To Net: NetName=GND Pin=U1-36
+Added Pin To Net: NetName=VREG Pin=U1-37
+Added Pin To Net: NetName=NetQ2_B Pin=U1-38
+Added Pin To Net: NetName=WDT Pin=U1-39
+Added Pin To Net: NetName=VREG Pin=U1-40
+Added Pin To Net: NetName=PRI_IA_N Pin=U1-41
+Added Pin To Net: NetName=PRI_IA_P Pin=U1-42
+Added Pin To Net: NetName=NetR5_2 Pin=U1-46
+Added Pin To Net: NetName=PRI_IB_N Pin=U1-47
+Added Pin To Net: NetName=PRI_IB_P Pin=U1-48
+Added Pin To Net: NetName=NetC8_IA_1 Pin=C8_IA-1
+Added Pin To Net: NetName=NetC8_IA_1 Pin=C9_IA-1
+Added Pin To Net: NetName=NetC8_IA_1 Pin=C?_IA-2
+Added Pin To Net: NetName=NetC8_IA_1 Pin=R14_IA-2
+Added Pin To Net: NetName=NetC8_IA_1 Pin=R15_IA-2
+Added Net: Name=NetC8_IA_1
+Added Pin To Net: NetName=NetC8_IB_1 Pin=C8_IB-1
+Added Pin To Net: NetName=NetC8_IB_1 Pin=C9_IB-1
+Added Pin To Net: NetName=NetC8_IB_1 Pin=C?_IB-2
+Added Pin To Net: NetName=NetC8_IB_1 Pin=R14_IB-2
+Added Pin To Net: NetName=NetC8_IB_1 Pin=R15_IB-2
+Added Net: Name=NetC8_IB_1
+Added Member To Class: ClassName=CELL1 Member=Component C1_CELL1 (C1) Capacitor - Nonpolarized
+Added Member To Class: ClassName=CELL2 Member=Component C1_CELL2 (C1) Capacitor - Nonpolarized
+Added Member To Class: ClassName=CELL3 Member=Component C1_CELL3 (C1) Capacitor - Nonpolarized
+Added Member To Class: ClassName=CELL4 Member=Component C1_CELL4 (C1) Capacitor - Nonpolarized
+Added Member To Class: ClassName=CELL5 Member=Component C1_CELL5 (C1) Capacitor - Nonpolarized
+Added Member To Class: ClassName=CELL6 Member=Component C1_CELL6 (C1) Capacitor - Nonpolarized
+Added Member To Class: ClassName=CELL7 Member=Component C1_CELL7 (C1) Capacitor - Nonpolarized
+Added Member To Class: ClassName=CELL8 Member=Component C1_CELL8 (C1) Capacitor - Nonpolarized
+Added Member To Class: ClassName=CELL9 Member=Component C1_CELL9 (C1) Capacitor - Nonpolarized
+Added Member To Class: ClassName=CELL10 Member=Component C1_CELL10 (C1) Capacitor - Nonpolarized
+Added Member To Class: ClassName=CELL11 Member=Component C1_CELL11 (C1) Capacitor - Nonpolarized
+Added Member To Class: ClassName=Chip Member=Component C2 Cap
+Added Member To Class: ClassName=Chip Member=Component C3 Capacitor - Nonpolarized
+Added Member To Class: ClassName=Chip Member=Component C4 Capacitor - Nonpolarized
+Added Member To Class: ClassName=Chip Member=Component C5 Cap
+Added Member To Class: ClassName=Chip Member=Component C6 Cap
+Added Member To Class: ClassName=IA Member=Component C8_IA (C8) Capacitor - Nonpolarized
+Added Member To Class: ClassName=IB Member=Component C8_IB (C8) Capacitor - Nonpolarized
+Added Member To Class: ClassName=IA Member=Component C9_IA (C9) Cap
+Added Member To Class: ClassName=IB Member=Component C9_IB (C9) Cap
+Added Member To Class: ClassName=IA Member=Component C?_IA (C?) Capacitor - Nonpolarized
+Added Member To Class: ClassName=IB Member=Component C?_IB (C?) Capacitor - Nonpolarized
+Added Member To Class: ClassName=Chip Member=Component D1 LED
+Added Member To Class: ClassName=Monitoring IC Member=Component J1 MOLEX0039301021
+Added Member To Class: ClassName=Monitoring IC Member=Component J2 MOLEX0039301021
+Added Member To Class: ClassName=Monitoring IC Member=Component P1 1x6 Header
+Added Member To Class: ClassName=Monitoring IC Member=Component P2 1x6 Header
+Added Member To Class: ClassName=Monitoring IC Member=Component P3 1x6 Header
+Add Class Member: Failed to add class member : Component Q1_CELL1 (Q1) MOSFET P-CH 20V 660MA SOT723
+Add Class Member: Failed to add class member : Component Q1_CELL2 (Q1) MOSFET P-CH 20V 660MA SOT723
+Add Class Member: Failed to add class member : Component Q1_CELL3 (Q1) MOSFET P-CH 20V 660MA SOT723
+Add Class Member: Failed to add class member : Component Q1_CELL4 (Q1) MOSFET P-CH 20V 660MA SOT723
+Add Class Member: Failed to add class member : Component Q1_CELL5 (Q1) MOSFET P-CH 20V 660MA SOT723
+Add Class Member: Failed to add class member : Component Q1_CELL6 (Q1) MOSFET P-CH 20V 660MA SOT723
+Add Class Member: Failed to add class member : Component Q1_CELL7 (Q1) MOSFET P-CH 20V 660MA SOT723
+Add Class Member: Failed to add class member : Component Q1_CELL8 (Q1) MOSFET P-CH 20V 660MA SOT723
+Add Class Member: Failed to add class member : Component Q1_CELL9 (Q1) MOSFET P-CH 20V 660MA SOT723
+Add Class Member: Failed to add class member : Component Q1_CELL10 (Q1) MOSFET P-CH 20V 660MA SOT723
+Add Class Member: Failed to add class member : Component Q1_CELL11 (Q1) MOSFET P-CH 20V 660MA SOT723
+Added Member To Class: ClassName=Chip Member=Component Q2 TRANS NPN 160V 0.6A POWERDI5
+Added Member To Class: ClassName=CELL1 Member=Component R1_CELL1 (R1) Resistor
+Added Member To Class: ClassName=CELL2 Member=Component R1_CELL2 (R1) Resistor
+Added Member To Class: ClassName=CELL3 Member=Component R1_CELL3 (R1) Resistor
+Added Member To Class: ClassName=CELL4 Member=Component R1_CELL4 (R1) Resistor
+Added Member To Class: ClassName=CELL5 Member=Component R1_CELL5 (R1) Resistor
+Added Member To Class: ClassName=CELL6 Member=Component R1_CELL6 (R1) Resistor
+Added Member To Class: ClassName=CELL7 Member=Component R1_CELL7 (R1) Resistor
+Added Member To Class: ClassName=CELL8 Member=Component R1_CELL8 (R1) Resistor
+Added Member To Class: ClassName=CELL9 Member=Component R1_CELL9 (R1) Resistor
+Added Member To Class: ClassName=CELL10 Member=Component R1_CELL10 (R1) Resistor
+Added Member To Class: ClassName=CELL11 Member=Component R1_CELL11 (R1) Resistor
+Added Member To Class: ClassName=CELL1 Member=Component R2_CELL1 (R2) Resistor
+Added Member To Class: ClassName=CELL2 Member=Component R2_CELL2 (R2) Resistor
+Added Member To Class: ClassName=CELL3 Member=Component R2_CELL3 (R2) Resistor
+Added Member To Class: ClassName=CELL4 Member=Component R2_CELL4 (R2) Resistor
+Added Member To Class: ClassName=CELL5 Member=Component R2_CELL5 (R2) Resistor
+Added Member To Class: ClassName=CELL6 Member=Component R2_CELL6 (R2) Resistor
+Added Member To Class: ClassName=CELL7 Member=Component R2_CELL7 (R2) Resistor
+Added Member To Class: ClassName=CELL8 Member=Component R2_CELL8 (R2) Resistor
+Added Member To Class: ClassName=CELL9 Member=Component R2_CELL9 (R2) Resistor
+Added Member To Class: ClassName=CELL10 Member=Component R2_CELL10 (R2) Resistor
+Added Member To Class: ClassName=CELL11 Member=Component R2_CELL11 (R2) Resistor
+Added Member To Class: ClassName=CELL1 Member=Component R3_CELL1 (R3) Resistor
+Added Member To Class: ClassName=CELL2 Member=Component R3_CELL2 (R3) Resistor
+Added Member To Class: ClassName=CELL3 Member=Component R3_CELL3 (R3) Resistor
+Added Member To Class: ClassName=CELL4 Member=Component R3_CELL4 (R3) Resistor
+Added Member To Class: ClassName=CELL5 Member=Component R3_CELL5 (R3) Resistor
+Added Member To Class: ClassName=CELL6 Member=Component R3_CELL6 (R3) Resistor
+Added Member To Class: ClassName=CELL7 Member=Component R3_CELL7 (R3) Resistor
+Added Member To Class: ClassName=CELL8 Member=Component R3_CELL8 (R3) Resistor
+Added Member To Class: ClassName=CELL9 Member=Component R3_CELL9 (R3) Resistor
+Added Member To Class: ClassName=CELL10 Member=Component R3_CELL10 (R3) Resistor
+Added Member To Class: ClassName=CELL11 Member=Component R3_CELL11 (R3) Resistor
+Added Member To Class: ClassName=CELL1 Member=Component R4_CELL1 (R4) Resistor
+Added Member To Class: ClassName=CELL2 Member=Component R4_CELL2 (R4) Resistor
+Added Member To Class: ClassName=CELL3 Member=Component R4_CELL3 (R4) Resistor
+Added Member To Class: ClassName=CELL4 Member=Component R4_CELL4 (R4) Resistor
+Added Member To Class: ClassName=CELL5 Member=Component R4_CELL5 (R4) Resistor
+Added Member To Class: ClassName=CELL6 Member=Component R4_CELL6 (R4) Resistor
+Added Member To Class: ClassName=CELL7 Member=Component R4_CELL7 (R4) Resistor
+Added Member To Class: ClassName=CELL8 Member=Component R4_CELL8 (R4) Resistor
+Added Member To Class: ClassName=CELL9 Member=Component R4_CELL9 (R4) Resistor
+Added Member To Class: ClassName=CELL10 Member=Component R4_CELL10 (R4) Resistor
+Added Member To Class: ClassName=CELL11 Member=Component R4_CELL11 (R4) Resistor
+Added Member To Class: ClassName=Chip Member=Component R5 Resistor
+Added Member To Class: ClassName=Chip Member=Component R6 Resistor
+Added Member To Class: ClassName=Chip Member=Component R7 Resistor
+Added Member To Class: ClassName=Chip Member=Component R8 Resistor
+Added Member To Class: ClassName=Chip Member=Component R9 Resistor
+Added Member To Class: ClassName=Chip Member=Component R10 Resistor
+Added Member To Class: ClassName=Chip Member=Component R11 Resistor
+Added Member To Class: ClassName=Chip Member=Component R12 Resistor
+Added Member To Class: ClassName=Chip Member=Component R13 Resistor
+Added Member To Class: ClassName=IA Member=Component R14_IA (R14) Resistor
+Added Member To Class: ClassName=IB Member=Component R14_IB (R14) Resistor
+Added Member To Class: ClassName=IA Member=Component R15_IA (R15) Resistor
+Added Member To Class: ClassName=IB Member=Component R15_IB (R15) Resistor
+Added Member To Class: ClassName=Chip Member=Component R16 Resistor
+Added Member To Class: ClassName=IA Member=Component T1_IA (T1) HM2101NLT
+Added Member To Class: ClassName=IB Member=Component T1_IB (T1) HM2101NLT
+Added Member To Class: ClassName=Chip Member=Component U1 LTC6811HG-1#3ZZTRPBF
+Added Room: Name=CELL1
+Added Room: Name=CELL2
+Added Room: Name=CELL3
+Added Room: Name=CELL4
+Added Room: Name=CELL5
+Added Room: Name=CELL6
+Added Room: Name=CELL7
+Added Room: Name=CELL8
+Added Room: Name=CELL9
+Added Room: Name=CELL10
+Added Room: Name=CELL11
+Added Room: Name=Chip
+Added Room: Name=IA
+Added Room: Name=IB
+Added Room: Name=Monitoring IC

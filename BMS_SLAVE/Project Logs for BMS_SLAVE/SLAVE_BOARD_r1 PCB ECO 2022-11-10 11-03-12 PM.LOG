@@ -1,0 +1,103 @@
+Change Component Designator: OldDesignator=C?_IA NewDesignator=C7_IA
+Change Component Designator: OldDesignator=C?_IB NewDesignator=C7_IB
+Added Component: Designator=Q1_CELL1(NTK3139PT1G)
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NTK3139PT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "NTK3139PT1GOSTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Q1_CELL2(NTK3139PT1G)
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NTK3139PT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "NTK3139PT1GOSTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Q1_CELL3(NTK3139PT1G)
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NTK3139PT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "NTK3139PT1GOSTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Q1_CELL4(NTK3139PT1G)
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NTK3139PT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "NTK3139PT1GOSTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Q1_CELL5(NTK3139PT1G)
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NTK3139PT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "NTK3139PT1GOSTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Q1_CELL6(NTK3139PT1G)
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NTK3139PT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "NTK3139PT1GOSTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Q1_CELL7(NTK3139PT1G)
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NTK3139PT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "NTK3139PT1GOSTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Q1_CELL8(NTK3139PT1G)
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NTK3139PT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "NTK3139PT1GOSTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Q1_CELL9(NTK3139PT1G)
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NTK3139PT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "NTK3139PT1GOSTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Q1_CELL10(NTK3139PT1G)
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NTK3139PT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "NTK3139PT1GOSTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Q1_CELL11(NTK3139PT1G)
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NTK3139PT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "NTK3139PT1GOSTR-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q1_CELL1-D
+Added Pin To Net: NetName=NetQ1_CELL1_G Pin=Q1_CELL1-G
+Added Pin To Net: NetName=C1_+ Pin=Q1_CELL1-S
+Added Pin To Net: NetName=C1_+ Pin=Q1_CELL2-D
+Added Pin To Net: NetName=NetQ1_CELL2_G Pin=Q1_CELL2-G
+Added Pin To Net: NetName=C2_+ Pin=Q1_CELL2-S
+Added Pin To Net: NetName=C2_+ Pin=Q1_CELL3-D
+Added Pin To Net: NetName=NetQ1_CELL3_G Pin=Q1_CELL3-G
+Added Pin To Net: NetName=C3_+ Pin=Q1_CELL3-S
+Added Pin To Net: NetName=C3_+ Pin=Q1_CELL4-D
+Added Pin To Net: NetName=NetQ1_CELL4_G Pin=Q1_CELL4-G
+Added Pin To Net: NetName=C4_+ Pin=Q1_CELL4-S
+Added Pin To Net: NetName=C4_+ Pin=Q1_CELL5-D
+Added Pin To Net: NetName=NetQ1_CELL5_G Pin=Q1_CELL5-G
+Added Pin To Net: NetName=C5_+ Pin=Q1_CELL5-S
+Added Pin To Net: NetName=C5_+ Pin=Q1_CELL6-D
+Added Pin To Net: NetName=NetQ1_CELL6_G Pin=Q1_CELL6-G
+Added Pin To Net: NetName=C6_+ Pin=Q1_CELL6-S
+Added Pin To Net: NetName=C6_+ Pin=Q1_CELL7-D
+Added Pin To Net: NetName=NetQ1_CELL7_G Pin=Q1_CELL7-G
+Added Pin To Net: NetName=C7_+ Pin=Q1_CELL7-S
+Added Pin To Net: NetName=C7_+ Pin=Q1_CELL8-D
+Added Pin To Net: NetName=NetQ1_CELL8_G Pin=Q1_CELL8-G
+Added Pin To Net: NetName=C8_+ Pin=Q1_CELL8-S
+Added Pin To Net: NetName=C8_+ Pin=Q1_CELL9-D
+Added Pin To Net: NetName=NetQ1_CELL9_G Pin=Q1_CELL9-G
+Added Pin To Net: NetName=C9_+ Pin=Q1_CELL9-S
+Added Pin To Net: NetName=C9_+ Pin=Q1_CELL10-D
+Added Pin To Net: NetName=NetQ1_CELL10_G Pin=Q1_CELL10-G
+Added Pin To Net: NetName=C10_+ Pin=Q1_CELL10-S
+Added Pin To Net: NetName=C10_+ Pin=Q1_CELL11-D
+Added Pin To Net: NetName=NetQ1_CELL11_G Pin=Q1_CELL11-G
+Added Pin To Net: NetName=C11 Pin=Q1_CELL11-S
+Change Net Name : Old Net Name=NetC8_IA_1 New Net Name=NetC7_IA_2
+Change Net Name : Old Net Name=NetC8_IB_1 New Net Name=NetC7_IB_2
+Added Member To Class: ClassName=CELL1 Member=Component Q1_CELL1 (Q1) MOSFET P-CH 20V 660MA SOT723
+Added Member To Class: ClassName=CELL2 Member=Component Q1_CELL2 (Q1) MOSFET P-CH 20V 660MA SOT723
+Added Member To Class: ClassName=CELL3 Member=Component Q1_CELL3 (Q1) MOSFET P-CH 20V 660MA SOT723
+Added Member To Class: ClassName=CELL4 Member=Component Q1_CELL4 (Q1) MOSFET P-CH 20V 660MA SOT723
+Added Member To Class: ClassName=CELL5 Member=Component Q1_CELL5 (Q1) MOSFET P-CH 20V 660MA SOT723
+Added Member To Class: ClassName=CELL6 Member=Component Q1_CELL6 (Q1) MOSFET P-CH 20V 660MA SOT723
+Added Member To Class: ClassName=CELL7 Member=Component Q1_CELL7 (Q1) MOSFET P-CH 20V 660MA SOT723
+Added Member To Class: ClassName=CELL8 Member=Component Q1_CELL8 (Q1) MOSFET P-CH 20V 660MA SOT723
+Added Member To Class: ClassName=CELL9 Member=Component Q1_CELL9 (Q1) MOSFET P-CH 20V 660MA SOT723
+Added Member To Class: ClassName=CELL10 Member=Component Q1_CELL10 (Q1) MOSFET P-CH 20V 660MA SOT723
+Added Member To Class: ClassName=CELL11 Member=Component Q1_CELL11 (Q1) MOSFET P-CH 20V 660MA SOT723

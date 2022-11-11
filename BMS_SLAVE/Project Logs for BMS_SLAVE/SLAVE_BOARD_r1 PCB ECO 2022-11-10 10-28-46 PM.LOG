@@ -1,0 +1,56 @@
+Change Component DesignItemId : Designator=C2 Old DesignItemId=Cap New DesignItemId=Capacitor - Nonpolarized
+Change Component Footprint: Designator=C2 Old Footprint=RAD-0.3 New Footprint=0603 - Capacitor
+Change Component Comment : Designator=C2 Old Comment=Cap New Comment=Capacitor - Nonpolarized
+Change Component Description : Designator=C2 Old Description=Capacitor New Description=Nonpolarized Capacitor
+Change Component Library : Designator=C2 Old Library=Miscellaneous Devices.IntLib New Library=General.SchLib
+Change component parameters: Designator = "C2" ("C2"); Footprint = "RAD-0.3"; UniqueID = "\HLZJKDYK\IPGPWCNN" ("\HLZJKDYK\IPGPWCNN")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin Q1_CELL1-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL1-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL1-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL2-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL2-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL2-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL3-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL3-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL3-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL4-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL4-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL4-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL5-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL5-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL5-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL6-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL6-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL6-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL7-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL7-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL7-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL8-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL8-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL8-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL9-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL9-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL9-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL10-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL10-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL10-S
+Add Pin To Net: Unknown Pin: Pin Q1_CELL11-D
+Add Pin To Net: Unknown Pin: Pin Q1_CELL11-G
+Add Pin To Net: Unknown Pin: Pin Q1_CELL11-S
+Add Class Member: Failed to add class member : Component Q1_CELL1 (Q1) MOSFET P-CH 20V 660MA SOT723
+Add Class Member: Failed to add class member : Component Q1_CELL2 (Q1) MOSFET P-CH 20V 660MA SOT723
+Add Class Member: Failed to add class member : Component Q1_CELL3 (Q1) MOSFET P-CH 20V 660MA SOT723
+Add Class Member: Failed to add class member : Component Q1_CELL4 (Q1) MOSFET P-CH 20V 660MA SOT723
+Add Class Member: Failed to add class member : Component Q1_CELL5 (Q1) MOSFET P-CH 20V 660MA SOT723
+Add Class Member: Failed to add class member : Component Q1_CELL6 (Q1) MOSFET P-CH 20V 660MA SOT723
+Add Class Member: Failed to add class member : Component Q1_CELL7 (Q1) MOSFET P-CH 20V 660MA SOT723
+Add Class Member: Failed to add class member : Component Q1_CELL8 (Q1) MOSFET P-CH 20V 660MA SOT723
+Add Class Member: Failed to add class member : Component Q1_CELL9 (Q1) MOSFET P-CH 20V 660MA SOT723
+Add Class Member: Failed to add class member : Component Q1_CELL10 (Q1) MOSFET P-CH 20V 660MA SOT723
+Add Class Member: Failed to add class member : Component Q1_CELL11 (Q1) MOSFET P-CH 20V 660MA SOT723
