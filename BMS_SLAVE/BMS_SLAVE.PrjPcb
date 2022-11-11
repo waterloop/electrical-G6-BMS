@@ -185,23 +185,6 @@ GenerateClassCluster=0
 DocumentUniqueId=ITQRDXQM
 
 [Document9]
-DocumentPath=COMPLETE_SLAVE_BMS.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=4
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WJJUKHMY
-
-[Document10]
 DocumentPath=..\..\..\electrical-AltiumLibraries\Libraries\BMS\BMS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RRSYOLWE
 
-[Document11]
+[Document10]
 DocumentPath=..\..\..\electrical-AltiumLibraries\Libraries\General\GeneralComponents.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JCMLCSIT
 
-[Document12]
+[Document11]
 DocumentPath=..\..\..\electrical-AltiumLibraries\Libraries\General\GeneralConnectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document12]
 DocumentPath=..\..\..\electrical-AltiumLibraries\Libraries\General.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OVTIRPKI
 
-[Document14]
+[Document13]
 DocumentPath=..\..\..\electrical-AltiumLibraries\Libraries\Embedded\Embedded.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JSWJYOTO
 
-[Document15]
+[Document14]
 DocumentPath=SLAVE_BOARD_r1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
