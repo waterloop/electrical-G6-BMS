@@ -1,0 +1,25 @@
+Change Component DesignItemId : Designator=C9_IA Old DesignItemId=Cap New DesignItemId=Capacitor - Nonpolarized
+Change Component DesignItemId : Designator=C9_IB Old DesignItemId=Cap New DesignItemId=Capacitor - Nonpolarized
+Change Component Footprint: Designator=C9_IA Old Footprint=RAD-0.3 New Footprint=0603 - Capacitor
+Change Component Footprint: Designator=C9_IB Old Footprint=RAD-0.3 New Footprint=0603 - Capacitor
+Change Component Comment : Designator=C9_IA Old Comment=Cap New Comment=Capacitor - Nonpolarized
+Change Component Comment : Designator=C9_IB Old Comment=Cap New Comment=Capacitor - Nonpolarized
+Change Component Description : Designator=C9_IA Old Description=Capacitor New Description=Nonpolarized Capacitor
+Change Component Description : Designator=C9_IB Old Description=Capacitor New Description=Nonpolarized Capacitor
+Change Component Library : Designator=C9_IA Old Library=Miscellaneous Devices.IntLib New Library=General.SchLib
+Change Component Library : Designator=C9_IB Old Library=Miscellaneous Devices.IntLib New Library=General.SchLib
+Change component parameters: Designator = "C9_IA" ("C9"); Footprint = "RAD-0.3"; UniqueID = "\LJUJCQLD\JKDVHJHS" ("\LJUJCQLD\JKDVHJHS")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9_IB" ("C9"); Footprint = "RAD-0.3"; UniqueID = "\GXLLBHGE\JKDVHJHS" ("\GXLLBHGE\JKDVHJHS")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Added Room: Name=Monitoring IC
