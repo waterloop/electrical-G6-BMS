@@ -43,6 +43,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=END CHAIN
 
 [Preferences]
 PrefsVaultGUID=
@@ -233,7 +234,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TAJKIPBO
 
 [Document12]
 DocumentPath=..\..\..\electrical-AltiumLibraries\Libraries\General.PcbLib
@@ -285,6 +286,72 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BHHNLQKJ
+
+[Document15]
+DocumentPath=BMS_SLAVE.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document16]
+DocumentPath=RJ45 Connector.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=4
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JGVOULSU
+
+[ProjectVariant1]
+UniqueID=A8E525F2-9AF5-4601-A2DD-CDC54851C9C0
+Description=START_CHAIN
+AllowFabrication=0
+ParameterCount=0
+VariationCount=2
+Variation1=Designator=R17|UniqueId=\QCCDJJQH|Kind=1|AlternatePart= 
+Variation2=Designator=J2|UniqueId=\ISIDMEWS|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[ProjectVariant2]
+UniqueID=BE34374D-3912-47F4-BBF0-BA049A7B7787
+Description=END CHAIN
+AllowFabrication=0
+ParameterCount=0
+VariationCount=2
+Variation1=Designator=J6|UniqueId=\LESOTTLO\YTDYSEXL|Kind=1|AlternatePart= 
+Variation2=Designator=R17|UniqueId=\QCCDJJQH|Kind=0|AlternatePart= 
+ParamVariation1=ParameterName=Value|VariantValue=120
+ParamDesignator1=R17
+ParamVariationCount=1
+
+[ProjectVariant3]
+UniqueID=EBF87ABD-361E-4189-8513-EF46B1273321
+Description=TYPICAL_BOARD
+AllowFabrication=0
+ParameterCount=0
+VariationCount=2
+Variation1=Designator=J6|UniqueId=\LESOTTLO\YTDYSEXL|Kind=1|AlternatePart= 
+Variation2=Designator=R17|UniqueId=\QCCDJJQH|Kind=1|AlternatePart= 
+ParamVariationCount=0
 
 [Configuration1]
 Name=Sources

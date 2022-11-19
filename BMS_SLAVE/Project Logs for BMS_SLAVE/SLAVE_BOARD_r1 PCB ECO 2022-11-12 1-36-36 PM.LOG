@@ -1,0 +1,88 @@
+Removed Pin From Net: NetName=GND Pin=Q1_CELL1-D
+Removed Pin From Net: NetName=GND Pin=R3_CELL1-2
+Added Pin To Net: NetName=GND Pin=C1_CELL1-1
+Added Pin To Net: NetName=NetC1_CELL2_1 Pin=C1_CELL1-2
+Added Pin To Net: NetName=NetC1_CELL3_1 Pin=C1_CELL2-2
+Added Pin To Net: NetName=NetC1_CELL4_1 Pin=C1_CELL3-2
+Added Pin To Net: NetName=NetC1_CELL5_1 Pin=C1_CELL4-2
+Added Pin To Net: NetName=NetC1_CELL6_1 Pin=C1_CELL5-2
+Added Pin To Net: NetName=NetC1_CELL7_1 Pin=C1_CELL6-2
+Added Pin To Net: NetName=NetC1_CELL8_1 Pin=C1_CELL7-2
+Added Pin To Net: NetName=NetC1_CELL9_1 Pin=C1_CELL8-2
+Added Pin To Net: NetName=NetC1_CELL10_1 Pin=C1_CELL9-2
+Added Pin To Net: NetName=NetC1_CELL11_1 Pin=C1_CELL10-2
+Added Pin To Net: NetName=NetC1_CELL7_1 Pin=J3-1
+Added Pin To Net: NetName=NetC1_CELL8_1 Pin=J3-2
+Added Pin To Net: NetName=NetC1_CELL9_1 Pin=J3-3
+Added Pin To Net: NetName=NetC1_CELL10_1 Pin=J3-4
+Added Pin To Net: NetName=NetC1_CELL11_1 Pin=J3-5
+Added Pin To Net: NetName=NetC1_CELL2_1 Pin=J4-2
+Added Pin To Net: NetName=NetC1_CELL3_1 Pin=J4-3
+Added Pin To Net: NetName=NetC1_CELL4_1 Pin=J4-4
+Added Pin To Net: NetName=NetC1_CELL5_1 Pin=J4-5
+Added Pin To Net: NetName=NetC1_CELL6_1 Pin=J4-6
+Added Pin To Net: NetName=NetC1_CELL2_1 Pin=Q1_CELL1-S
+Added Pin To Net: NetName=NetC1_CELL3_1 Pin=Q1_CELL2-S
+Added Pin To Net: NetName=NetC1_CELL4_1 Pin=Q1_CELL3-S
+Added Pin To Net: NetName=NetC1_CELL5_1 Pin=Q1_CELL4-S
+Added Pin To Net: NetName=NetC1_CELL6_1 Pin=Q1_CELL5-S
+Added Pin To Net: NetName=NetC1_CELL7_1 Pin=Q1_CELL6-S
+Added Pin To Net: NetName=NetC1_CELL8_1 Pin=Q1_CELL7-S
+Added Pin To Net: NetName=NetC1_CELL9_1 Pin=Q1_CELL8-S
+Added Pin To Net: NetName=NetC1_CELL10_1 Pin=Q1_CELL9-S
+Added Pin To Net: NetName=NetC1_CELL11_1 Pin=Q1_CELL10-S
+Added Pin To Net: NetName=NetC1_CELL2_1 Pin=R1_CELL1-2
+Added Pin To Net: NetName=NetC1_CELL3_1 Pin=R1_CELL2-2
+Added Pin To Net: NetName=NetC1_CELL4_1 Pin=R1_CELL3-2
+Added Pin To Net: NetName=NetC1_CELL5_1 Pin=R1_CELL4-2
+Added Pin To Net: NetName=NetC1_CELL6_1 Pin=R1_CELL5-2
+Added Pin To Net: NetName=NetC1_CELL7_1 Pin=R1_CELL6-2
+Added Pin To Net: NetName=NetC1_CELL8_1 Pin=R1_CELL7-2
+Added Pin To Net: NetName=NetC1_CELL9_1 Pin=R1_CELL8-2
+Added Pin To Net: NetName=NetC1_CELL10_1 Pin=R1_CELL9-2
+Added Pin To Net: NetName=NetC1_CELL11_1 Pin=R1_CELL10-2
+Added Pin To Net: NetName=GND Pin=R3_CELL1-1
+Added Pin To Net: NetName=GND Pin=R4_CELL1-2
+Change Net Name : Old Net Name=NetC1_CELL2_1 New Net Name=C1_+
+Change Net Name : Old Net Name=NetC1_CELL3_1 New Net Name=C2_+
+Change Net Name : Old Net Name=NetC1_CELL4_1 New Net Name=C3_+
+Change Net Name : Old Net Name=NetC1_CELL5_1 New Net Name=C4_+
+Change Net Name : Old Net Name=NetC1_CELL6_1 New Net Name=C5_+
+Change Net Name : Old Net Name=NetC1_CELL7_1 New Net Name=C6_+
+Change Net Name : Old Net Name=NetC1_CELL8_1 New Net Name=C7_+
+Change Net Name : Old Net Name=NetC1_CELL9_1 New Net Name=C8_+
+Change Net Name : Old Net Name=NetC1_CELL10_1 New Net Name=C9_+
+Change Net Name : Old Net Name=NetC1_CELL11_1 New Net Name=C10_+
+Added Pin To Net: NetName=NetQ1_CELL1_D Pin=Q1_CELL1-D
+Added Pin To Net: NetName=NetQ1_CELL1_D Pin=R3_CELL1-2
+Added Net: Name=NetQ1_CELL1_D
+Added Pin To Net: NetName=NetQ1_CELL2_D Pin=Q1_CELL2-D
+Added Pin To Net: NetName=NetQ1_CELL2_D Pin=R3_CELL2-2
+Added Net: Name=NetQ1_CELL2_D
+Added Pin To Net: NetName=NetQ1_CELL3_D Pin=Q1_CELL3-D
+Added Pin To Net: NetName=NetQ1_CELL3_D Pin=R3_CELL3-2
+Added Net: Name=NetQ1_CELL3_D
+Added Pin To Net: NetName=NetQ1_CELL4_D Pin=Q1_CELL4-D
+Added Pin To Net: NetName=NetQ1_CELL4_D Pin=R3_CELL4-2
+Added Net: Name=NetQ1_CELL4_D
+Added Pin To Net: NetName=NetQ1_CELL5_D Pin=Q1_CELL5-D
+Added Pin To Net: NetName=NetQ1_CELL5_D Pin=R3_CELL5-2
+Added Net: Name=NetQ1_CELL5_D
+Added Pin To Net: NetName=NetQ1_CELL6_D Pin=Q1_CELL6-D
+Added Pin To Net: NetName=NetQ1_CELL6_D Pin=R3_CELL6-2
+Added Net: Name=NetQ1_CELL6_D
+Added Pin To Net: NetName=NetQ1_CELL7_D Pin=Q1_CELL7-D
+Added Pin To Net: NetName=NetQ1_CELL7_D Pin=R3_CELL7-2
+Added Net: Name=NetQ1_CELL7_D
+Added Pin To Net: NetName=NetQ1_CELL8_D Pin=Q1_CELL8-D
+Added Pin To Net: NetName=NetQ1_CELL8_D Pin=R3_CELL8-2
+Added Net: Name=NetQ1_CELL8_D
+Added Pin To Net: NetName=NetQ1_CELL9_D Pin=Q1_CELL9-D
+Added Pin To Net: NetName=NetQ1_CELL9_D Pin=R3_CELL9-2
+Added Net: Name=NetQ1_CELL9_D
+Added Pin To Net: NetName=NetQ1_CELL10_D Pin=Q1_CELL10-D
+Added Pin To Net: NetName=NetQ1_CELL10_D Pin=R3_CELL10-2
+Added Net: Name=NetQ1_CELL10_D
+Added Pin To Net: NetName=NetQ1_CELL11_D Pin=Q1_CELL11-D
+Added Pin To Net: NetName=NetQ1_CELL11_D Pin=R3_CELL11-2
+Added Net: Name=NetQ1_CELL11_D

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=C6 Pin=R1_CELL7-1
+Added Pin To Net: NetName=C6 Pin=R1_CELL6-1
+Added Pin To Net: NetName=C7 Pin=R1_CELL7-1
+Added Pin To Net: NetName=C6 Pin=R4_CELL7-1

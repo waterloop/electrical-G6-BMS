@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=C6_+ Pin=P1-1
+Removed Pin From Net: NetName=C7_+ Pin=P1-2
+Removed Pin From Net: NetName=C8_+ Pin=P1-3
+Removed Pin From Net: NetName=C9_+ Pin=P1-4
+Removed Pin From Net: NetName=C10_+ Pin=P1-5
+Removed Pin From Net: NetName=C11 Pin=P1-6
+Removed Pin From Net: NetName=GND Pin=P2-1
+Removed Pin From Net: NetName=C1_+ Pin=P2-2
+Removed Pin From Net: NetName=C2_+ Pin=P2-3
+Removed Pin From Net: NetName=C3_+ Pin=P2-4
+Removed Pin From Net: NetName=C4_+ Pin=P2-5
+Removed Pin From Net: NetName=C5_+ Pin=P2-6
+Removed Pin From Net: NetName=GND Pin=P3-1
+Removed Pin From Net: NetName=GPIO1 Pin=P3-2
+Removed Pin From Net: NetName=GPIO2 Pin=P3-3
+Removed Pin From Net: NetName=GPIO3 Pin=P3-4
+Removed Pin From Net: NetName=GPIO4 Pin=P3-5
+Removed Pin From Net: NetName=GPIO5 Pin=P3-6
+Removed Member From Class: ClassName=Monitoring IC Member=P1
+Removed Member From Class: ClassName=Monitoring IC Member=P2
+Removed Member From Class: ClassName=Monitoring IC Member=P3
+Added Component: Designator=J3(1726480106)
+Added Component: Designator=J4(1726480106)
+Added Component: Designator=J5(1726480106)
+Added Pin To Net: NetName=C6_+ Pin=J3-1
+Added Pin To Net: NetName=C7_+ Pin=J3-2
+Added Pin To Net: NetName=C8_+ Pin=J3-3
+Added Pin To Net: NetName=C9_+ Pin=J3-4
+Added Pin To Net: NetName=C10_+ Pin=J3-5
+Added Pin To Net: NetName=C11 Pin=J3-6
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=C1_+ Pin=J4-2
+Added Pin To Net: NetName=C2_+ Pin=J4-3
+Added Pin To Net: NetName=C3_+ Pin=J4-4
+Added Pin To Net: NetName=C4_+ Pin=J4-5
+Added Pin To Net: NetName=C5_+ Pin=J4-6
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=GPIO1 Pin=J5-2
+Added Pin To Net: NetName=GPIO2 Pin=J5-3
+Added Pin To Net: NetName=GPIO3 Pin=J5-4
+Added Pin To Net: NetName=GPIO4 Pin=J5-5
+Added Pin To Net: NetName=GPIO5 Pin=J5-6
+Added Member To Class: ClassName=Monitoring IC Member=Component J3 6 pin MOLEX
+Added Member To Class: ClassName=Monitoring IC Member=Component J4 6 pin MOLEX
+Added Member To Class: ClassName=Monitoring IC Member=Component J5 6 pin MOLEX

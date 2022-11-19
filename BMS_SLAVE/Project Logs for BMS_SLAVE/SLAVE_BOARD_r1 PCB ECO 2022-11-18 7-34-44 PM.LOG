@@ -1,0 +1,39 @@
+Added Component: Designator=J6(MTJ-88ARX1-FSM-LV)
+Added Component: Designator=R17(0603 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "END CHAIN"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "END CHAIN"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "END CHAIN"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "END CHAIN"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "END CHAIN"
+Add component (AddParameter): Name = "Value"; Value = "120"; VariantName = "END CHAIN"
+Added Pin To Net: NetName=ISO_IA_P Pin=J6-1
+Added Pin To Net: NetName=ISO_IA_N Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J6-9
+Added Pin To Net: NetName=GND Pin=J6-10
+Added Pin To Net: NetName=GND Pin=J6-11
+Added Pin To Net: NetName=GND Pin=J6-12
+Added Pin To Net: NetName=GND Pin=J6-MH1
+Added Pin To Net: NetName=GND Pin=J6-MH2
+Added Pin To Net: NetName=ISO_IB_P Pin=R17-1
+Added Pin To Net: NetName=ISO_IB_N Pin=R17-2
+Added Pin To Net: NetName=NetJ6_3 Pin=J6-3
+Added Net: Name=NetJ6_3
+Added Pin To Net: NetName=NetJ6_4 Pin=J6-4
+Added Net: Name=NetJ6_4
+Added Pin To Net: NetName=NetJ6_5 Pin=J6-5
+Added Net: Name=NetJ6_5
+Added Pin To Net: NetName=NetJ6_6 Pin=J6-6
+Added Net: Name=NetJ6_6
+Added Pin To Net: NetName=NetJ6_7 Pin=J6-7
+Added Net: Name=NetJ6_7
+Added Pin To Net: NetName=NetJ6_8 Pin=J6-8
+Added Net: Name=NetJ6_8
+Added Class: Name=U_RJ45 Connector
+Added Member To Class: ClassName=Monitoring IC Member=Component R17 Resistor
+Added Room: Name=U_RJ45 Connector
