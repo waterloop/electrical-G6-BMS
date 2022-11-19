@@ -401,7 +401,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RRSYOLWE
 
 [Document22]
 DocumentPath=..\..\..\electrical-AltiumLibraries\Libraries\BMS\BMS.SchLib
@@ -436,6 +436,27 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document24]
+DocumentPath=LTC2949.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IBVKQIDW
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for LTC2949\Net Status - LTC2949.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources

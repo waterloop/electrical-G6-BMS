@@ -1,0 +1,57 @@
+Net Status Report
+Filename     : C:\Users\hs640\OneDrive\Documents\Waterloop\electrical-G6-BMS\LTC2949_rev1\LTC2949\LTC2949.PcbDoc
+Date         : 19-11-2022
+Time         : 14:25:52
+Time Elapsed : 00:00:01
+
+Nets, Layer, Length
+    +12, Signal Layers Only, 0mm
+    BGND, Signal Layers Only, 0mm
+    CLKI, Signal Layers Only, 0mm
+    CLKO, Signal Layers Only, 0mm
+    I1_N, Signal Layers Only, 0mm
+    I1_P, Signal Layers Only, 0mm
+    IOVCC, Signal Layers Only, 0mm
+    Net*_1, Signal Layers Only, 0mm
+    Net*_MH1, Signal Layers Only, 0mm
+    NetC2_1, Signal Layers Only, 0mm
+    NetC3_1, Signal Layers Only, 0mm
+    NetC3_2, Signal Layers Only, 0mm
+    NetC4_1, Signal Layers Only, 0mm
+    NetC4_2, Signal Layers Only, 0mm
+    NetC5_1, Signal Layers Only, 0mm
+    NetC8_2, Signal Layers Only, 0mm
+    NetJ3_1, Signal Layers Only, 0mm
+    NetJ3_2, Signal Layers Only, 0mm
+    NetJ4_1, Signal Layers Only, 0mm
+    NetJ4_2, Signal Layers Only, 0mm
+    NetJ7_2, Signal Layers Only, 0mm
+    NetP2_1, Signal Layers Only, 0mm
+    NetP2_2, Signal Layers Only, 0mm
+    NetP2_5, Signal Layers Only, 0mm
+    NetP2_6, Signal Layers Only, 0mm
+    NetR1_1, Signal Layers Only, 0mm
+    NetR2_1, Signal Layers Only, 0mm
+    NetR3_1, Signal Layers Only, 0mm
+    NetR4_1, Signal Layers Only, 0mm
+    NetR5_1, Signal Layers Only, 0mm
+    NetR6_1, Signal Layers Only, 0mm
+    RX_N, Signal Layers Only, 0mm
+    RX_P, Signal Layers Only, 0mm
+    TX_I_N, Signal Layers Only, 0mm
+    TX_I_P, Signal Layers Only, 0mm
+    V1, Signal Layers Only, 0mm
+    V10, Signal Layers Only, 0mm
+    V11, Signal Layers Only, 0mm
+    V12, Signal Layers Only, 0mm
+    V2, Signal Layers Only, 0mm
+    V3, Signal Layers Only, 0mm
+    V4, Signal Layers Only, 0mm
+    V5, Signal Layers Only, 0mm
+    V6, Signal Layers Only, 0mm
+    V7, Signal Layers Only, 0mm
+    V8, Signal Layers Only, 0mm
+    V9, Signal Layers Only, 0mm
+    VBAT, Signal Layers Only, 0mm
+    VREF, Signal Layers Only, 0mm
+count : 49
