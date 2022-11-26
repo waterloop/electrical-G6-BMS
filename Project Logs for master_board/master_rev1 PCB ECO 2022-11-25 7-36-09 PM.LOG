@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=P_CHARGE_1 Pin=J?-1
+Removed Pin From Net: NetName=P_CHARGE_2 Pin=J?-2
+Removed Pin From Net: NetName=CONT_2 Pin=J?-3
+Removed Pin From Net: NetName=GND Pin=J?-4
+Removed Pin From Net: NetName=ADC_VSense Pin=J?-5
+Removed Pin From Net: NetName=ADC_ISense Pin=J?-6
+Removed Pin From Net: NetName=B Pin=J?-11
+Removed Pin From Net: NetName=G Pin=J?-12
+Removed Pin From Net: NetName=R Pin=J?-13
+Removed Pin From Net: NetName=GND Pin=J?-16
+Removed Pin From Net: NetName=GND Pin=J?-17
+Removed Pin From Net: NetName=CONT_1 Pin=J?-18
+Removed Pin From Net: NetName=PWM_FAN Pin=J?-19
+Removed Pin From Net: NetName=SLAVE_MOSI Pin=J?-21
+Removed Pin From Net: NetName=SLAVE_MISO Pin=J?-22
+Removed Pin From Net: NetName=SLAVE_SCK Pin=J?-23
+Removed Pin From Net: NetName=SLAVE_CS Pin=J?-24
+Removed Pin From Net: NetName=GND Pin=J?-25
+Removed Pin From Net: NetName=HV_MOSI Pin=J?-27
+Removed Pin From Net: NetName=HV_MISO Pin=J?-28
+Removed Pin From Net: NetName=HV_SCK Pin=J?-29
+Removed Pin From Net: NetName=HV_CS Pin=J?-30
+Removed Member From Class: ClassName=U_MCU_Platform Member=J?
+Added Room: Name=U_ISO_SPI

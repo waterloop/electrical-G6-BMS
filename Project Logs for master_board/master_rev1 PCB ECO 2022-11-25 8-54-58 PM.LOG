@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=12V Pin=J9-1
+Removed Pin From Net: NetName=12V Pin=J10-2
+Removed Pin From Net: NetName=12V Pin=J11-1
+Removed Pin From Net: NetName=12V Pin=J13-2
+Removed Pin From Net: NetName=GND Pin=J14-2
+Removed Pin From Net: NetName=GND Pin=J15-2
+Removed Pin From Net: NetName=GND Pin=J16-1
+Removed Pin From Net: NetName=GND Pin=J17-1
+Change Component Footprint: Designator=R29 Old Footprint=0603 - Resistor New Footprint=0805 - Resistor
+Change Component Footprint: Designator=R30 Old Footprint=0603 - Resistor New Footprint=0805 - Resistor
+Change Component Footprint: Designator=TP1 Old Footprint=Test Point - 5002 New Footprint=Test Point
+Change Component Footprint: Designator=TP2 Old Footprint=Test Point - 5002 New Footprint=Test Point
+Change Component Designator: OldDesignator=FROM DC/DC NewDesignator=J8
+Change Component Designator: OldDesignator=FROM ISO DC/DC NewDesignator=J6
+Change Component Designator: OldDesignator=LV-BATT NewDesignator=J3
+Change Component Designator: OldDesignator=TO DC/DC NewDesignator=J7
+Change Component Designator: OldDesignator=TO ISO DC/DC NewDesignator=J5
+Change Component Kind : Designator=TP2 Old Kind=Jumper New Kind=Standard (No BOM)
+Added Pin To Net: NetName=ISO-12V Pin=J9-1
+Added Pin To Net: NetName=ISO-12V Pin=J10-2
+Added Pin To Net: NetName=ISO-12V Pin=J11-1
+Added Pin To Net: NetName=ISO-12V Pin=J13-2
+Added Pin To Net: NetName=ISO-GND Pin=J14-2
+Added Pin To Net: NetName=ISO-GND Pin=J15-2
+Added Pin To Net: NetName=ISO-GND Pin=J16-1
+Added Pin To Net: NetName=ISO-GND Pin=J17-1
+Added Pin To Net: NetName=GND Pin=J18-1
+Added Pin To Net: NetName=GND Pin=J18-2
+Added Pin To Net: NetName=GND Pin=J18-3
+Added Pin To Net: NetName=GND Pin=J18-4
+Added Pin To Net: NetName=GND Pin=J18-5
+Added Pin To Net: NetName=GND Pin=J18-6
+Added Pin To Net: NetName=3.3V Pin=J18-7
+Added Pin To Net: NetName=3.3V Pin=J18-8
+Added Pin To Net: NetName=12V Pin=J18-11
+Added Pin To Net: NetName=12V Pin=J18-12
+Added Pin To Net: NetName=5V Pin=J18-9
+Added Pin To Net: NetName=5V Pin=J18-10
+Added Net: Name=5V
+Added Room: Name=Connectors
+Added Room: Name=U_Contactor
+Added Room: Name=U_ISO_SPI
+Added Room: Name=U_LV_Sensing
+Added Room: Name=U_MCU_Platform
+Added Room: Name=U_Precharge

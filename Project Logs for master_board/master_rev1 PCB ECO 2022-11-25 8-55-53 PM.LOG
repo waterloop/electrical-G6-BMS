@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=3.3V Pin=J12-1
+Removed Pin From Net: NetName=GND Pin=J12-2
+Removed Member From Class: ClassName=Connectors Member=J12
+Added Room: Name=Connectors
+Added Room: Name=U_Contactor
+Added Room: Name=U_ISO_SPI
+Added Room: Name=U_LV_Sensing
+Added Room: Name=U_MCU_Platform
+Added Room: Name=U_Precharge

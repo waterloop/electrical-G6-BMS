@@ -1,0 +1,34 @@
+Added Component: Designator=J2(G431 Header (GPIO Connector))
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Sullins Connector Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number (CONN)"; Value = "PPPC152LJBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Name"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "S5568-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J18(G431 HEADER (POWER CONNECTOR))
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Sullins Connector Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PPPC062LJBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Name"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "S5559-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=P_CHARGE_1 Pin=J2-1
+Added Pin To Net: NetName=P_CHARGE_2 Pin=J2-2
+Added Pin To Net: NetName=CONT_2 Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=ADC_VSense Pin=J2-5
+Added Pin To Net: NetName=ADC_ISense Pin=J2-6
+Added Pin To Net: NetName=B Pin=J2-11
+Added Pin To Net: NetName=G Pin=J2-12
+Added Pin To Net: NetName=R Pin=J2-13
+Added Pin To Net: NetName=GND Pin=J2-16
+Added Pin To Net: NetName=GND Pin=J2-17
+Added Pin To Net: NetName=CONT_1 Pin=J2-18
+Added Pin To Net: NetName=PWM_FAN Pin=J2-19
+Added Pin To Net: NetName=HV_MOSI Pin=J2-21
+Added Pin To Net: NetName=HV_MISO Pin=J2-22
+Added Pin To Net: NetName=HV_SCK Pin=J2-23
+Added Pin To Net: NetName=HV_CS Pin=J2-24
+Added Pin To Net: NetName=GND Pin=J2-25
+Added Pin To Net: NetName=SLAVE_MOSI Pin=J2-27
+Added Pin To Net: NetName=SLAVE_MISO Pin=J2-28
+Added Pin To Net: NetName=SLAVE_SCK Pin=J2-29
+Added Pin To Net: NetName=SLAVE_CS Pin=J2-30
+Added Member To Class: ClassName=U_MCU_Platform Member=Component J2 G431 GPIO
+Added Member To Class: ClassName=U_MCU_Platform Member=Component J18 G431 POWER
