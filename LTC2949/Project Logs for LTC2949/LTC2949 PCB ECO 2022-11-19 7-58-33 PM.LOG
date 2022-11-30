@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VBAT Pin=J6-1
+Removed Pin From Net: NetName=BGND Pin=J6-2
+Removed Member From Class: ClassName=CONNECTORS Member=J6
+Added Component: Designator=J1(MOLEX0039301021)
+Added Pin To Net: NetName=VBAT Pin=J1-1
+Added Pin To Net: NetName=BGND Pin=J1-2
+Added Member To Class: ClassName=CONNECTORS Member=Component J1 MOLEX0039301021
+Added Room: Name=CONNECTORS
+Added Room: Name=MAIN IC
