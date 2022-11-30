@@ -43,7 +43,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=END CHAIN
+CurrentVariant=START_CHAIN
 
 [Preferences]
 PrefsVaultGUID=
@@ -352,6 +352,10 @@ VariationCount=2
 Variation1=Designator=J6|UniqueId=\LESOTTLO\YTDYSEXL|Kind=1|AlternatePart= 
 Variation2=Designator=R17|UniqueId=\QCCDJJQH|Kind=1|AlternatePart= 
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for BMS_SLAVE\Design Rule Check - SLAVE_BOARD_r1.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources

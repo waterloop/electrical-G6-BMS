@@ -1,0 +1,143 @@
+Removed Pin From Net: NetName=C1_+ Pin=Q1_CELL1-S
+Removed Pin From Net: NetName=C2_+ Pin=Q1_CELL2-S
+Removed Pin From Net: NetName=C3_+ Pin=Q1_CELL3-S
+Removed Pin From Net: NetName=C4_+ Pin=Q1_CELL4-S
+Removed Pin From Net: NetName=C5_+ Pin=Q1_CELL5-S
+Removed Pin From Net: NetName=C6_+ Pin=Q1_CELL6-S
+Removed Pin From Net: NetName=C7_+ Pin=Q1_CELL7-S
+Removed Pin From Net: NetName=C8_+ Pin=Q1_CELL8-S
+Removed Pin From Net: NetName=C9_+ Pin=Q1_CELL9-S
+Removed Pin From Net: NetName=C10_+ Pin=Q1_CELL10-S
+Removed Pin From Net: NetName=C11 Pin=Q1_CELL11-S
+Removed Pin From Net: NetName=GND Pin=R3_CELL1-1
+Removed Pin From Net: NetName=C1_+ Pin=R3_CELL2-1
+Removed Pin From Net: NetName=C2_+ Pin=R3_CELL3-1
+Removed Pin From Net: NetName=C3_+ Pin=R3_CELL4-1
+Removed Pin From Net: NetName=C4_+ Pin=R3_CELL5-1
+Removed Pin From Net: NetName=C5_+ Pin=R3_CELL6-1
+Removed Pin From Net: NetName=C6_+ Pin=R3_CELL7-1
+Removed Pin From Net: NetName=C7_+ Pin=R3_CELL8-1
+Removed Pin From Net: NetName=C8_+ Pin=R3_CELL9-1
+Removed Pin From Net: NetName=C9_+ Pin=R3_CELL10-1
+Removed Pin From Net: NetName=C10_+ Pin=R3_CELL11-1
+Removed Member From Class: ClassName=CELL1 Member=Q1_CELL1
+Removed Member From Class: ClassName=CELL2 Member=Q1_CELL2
+Removed Member From Class: ClassName=CELL3 Member=Q1_CELL3
+Removed Member From Class: ClassName=CELL4 Member=Q1_CELL4
+Removed Member From Class: ClassName=CELL5 Member=Q1_CELL5
+Removed Member From Class: ClassName=CELL6 Member=Q1_CELL6
+Removed Member From Class: ClassName=CELL7 Member=Q1_CELL7
+Removed Member From Class: ClassName=CELL8 Member=Q1_CELL8
+Removed Member From Class: ClassName=CELL9 Member=Q1_CELL9
+Removed Member From Class: ClassName=CELL10 Member=Q1_CELL10
+Removed Member From Class: ClassName=CELL11 Member=Q1_CELL11
+Removed Member From Class: ClassName=CELL1 Member=R3_CELL1
+Removed Member From Class: ClassName=CELL2 Member=R3_CELL2
+Removed Member From Class: ClassName=CELL3 Member=R3_CELL3
+Removed Member From Class: ClassName=CELL4 Member=R3_CELL4
+Removed Member From Class: ClassName=CELL5 Member=R3_CELL5
+Removed Member From Class: ClassName=CELL6 Member=R3_CELL6
+Removed Member From Class: ClassName=CELL7 Member=R3_CELL7
+Removed Member From Class: ClassName=CELL8 Member=R3_CELL8
+Removed Member From Class: ClassName=CELL9 Member=R3_CELL9
+Removed Member From Class: ClassName=CELL10 Member=R3_CELL10
+Removed Member From Class: ClassName=CELL11 Member=R3_CELL11
+Change Component Footprint: Designator=R2_CELL1 Old Footprint=0603 - Resistor New Footprint=0805 - Resistor
+Change Component Footprint: Designator=R2_CELL2 Old Footprint=0603 - Resistor New Footprint=0805 - Resistor
+Change Component Footprint: Designator=R2_CELL3 Old Footprint=0603 - Resistor New Footprint=0805 - Resistor
+Change Component Footprint: Designator=R2_CELL4 Old Footprint=0603 - Resistor New Footprint=0805 - Resistor
+Change Component Footprint: Designator=R2_CELL5 Old Footprint=0603 - Resistor New Footprint=0805 - Resistor
+Change Component Footprint: Designator=R2_CELL6 Old Footprint=0603 - Resistor New Footprint=0805 - Resistor
+Change Component Footprint: Designator=R2_CELL7 Old Footprint=0603 - Resistor New Footprint=0805 - Resistor
+Change Component Footprint: Designator=R2_CELL8 Old Footprint=0603 - Resistor New Footprint=0805 - Resistor
+Change Component Footprint: Designator=R2_CELL9 Old Footprint=0603 - Resistor New Footprint=0805 - Resistor
+Change Component Footprint: Designator=R2_CELL10 Old Footprint=0603 - Resistor New Footprint=0805 - Resistor
+Change Component Footprint: Designator=R2_CELL11 Old Footprint=0603 - Resistor New Footprint=0805 - Resistor
+Change component parameters: Designator = "R2_CELL1" ("R2"); Footprint = "0603 - Resistor"; UniqueID = "\DASLTLNN\NUFDDQDD" ("\DASLTLNN\NUFDDQDD")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "75"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2_CELL2" ("R2"); Footprint = "0603 - Resistor"; UniqueID = "\VQEMRBCX\NUFDDQDD" ("\VQEMRBCX\NUFDDQDD")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "75"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2_CELL3" ("R2"); Footprint = "0603 - Resistor"; UniqueID = "\MVPXMEJG\NUFDDQDD" ("\MVPXMEJG\NUFDDQDD")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "75"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2_CELL4" ("R2"); Footprint = "0603 - Resistor"; UniqueID = "\NKNYGTTK\NUFDDQDD" ("\NKNYGTTK\NUFDDQDD")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "75"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2_CELL5" ("R2"); Footprint = "0603 - Resistor"; UniqueID = "\QMCHPLKJ\NUFDDQDD" ("\QMCHPLKJ\NUFDDQDD")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "75"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2_CELL6" ("R2"); Footprint = "0603 - Resistor"; UniqueID = "\CVVGBTIG\NUFDDQDD" ("\CVVGBTIG\NUFDDQDD")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "75"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2_CELL7" ("R2"); Footprint = "0603 - Resistor"; UniqueID = "\FIHSWJKJ\NUFDDQDD" ("\FIHSWJKJ\NUFDDQDD")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "75"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2_CELL8" ("R2"); Footprint = "0603 - Resistor"; UniqueID = "\KDWHIGBT\NUFDDQDD" ("\KDWHIGBT\NUFDDQDD")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "75"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2_CELL9" ("R2"); Footprint = "0603 - Resistor"; UniqueID = "\VLDHJTMJ\NUFDDQDD" ("\VLDHJTMJ\NUFDDQDD")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "75"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2_CELL10" ("R2"); Footprint = "0603 - Resistor"; UniqueID = "\FSSUBIRG\NUFDDQDD" ("\FSSUBIRG\NUFDDQDD")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "75"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2_CELL11" ("R2"); Footprint = "0603 - Resistor"; UniqueID = "\ODHIDLYA\NUFDDQDD" ("\ODHIDLYA\NUFDDQDD")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "75"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=C1_+ Pin=R2_CELL1-2
+Added Pin To Net: NetName=C2_+ Pin=R2_CELL2-2
+Added Pin To Net: NetName=C3_+ Pin=R2_CELL3-2
+Added Pin To Net: NetName=C4_+ Pin=R2_CELL4-2
+Added Pin To Net: NetName=C5_+ Pin=R2_CELL5-2
+Added Pin To Net: NetName=C6_+ Pin=R2_CELL6-2
+Added Pin To Net: NetName=C7_+ Pin=R2_CELL7-2
+Added Pin To Net: NetName=C8_+ Pin=R2_CELL8-2
+Added Pin To Net: NetName=C9_+ Pin=R2_CELL9-2
+Added Pin To Net: NetName=C10_+ Pin=R2_CELL10-2
+Added Pin To Net: NetName=C11 Pin=R2_CELL11-2

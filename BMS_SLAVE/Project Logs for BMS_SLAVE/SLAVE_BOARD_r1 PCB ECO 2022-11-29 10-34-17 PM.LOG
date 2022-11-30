@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ISO_IA_P Pin=J6-7
+Removed Pin From Net: NetName=ISO_IA_N Pin=J6-8
+Added Pin To Net: NetName=ISO_IA_N Pin=J6-7
+Added Pin To Net: NetName=ISO_IA_P Pin=J6-8

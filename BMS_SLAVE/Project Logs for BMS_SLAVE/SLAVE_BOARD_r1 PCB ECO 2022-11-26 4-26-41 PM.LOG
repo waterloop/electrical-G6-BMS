@@ -1,0 +1,83 @@
+Removed Pin From Net: NetName=C1 Pin=C1_CELL_1-2
+Removed Pin From Net: NetName=C2 Pin=C1_CELL_2-2
+Removed Pin From Net: NetName=C3 Pin=C1_CELL_3-2
+Removed Pin From Net: NetName=C4 Pin=C1_CELL_4-2
+Removed Pin From Net: NetName=C5 Pin=C1_CELL_5-2
+Removed Pin From Net: NetName=C6 Pin=C1_CELL_6-2
+Removed Pin From Net: NetName=C7 Pin=C1_CELL_7-2
+Removed Pin From Net: NetName=C8 Pin=C1_CELL_8-2
+Removed Pin From Net: NetName=C9 Pin=C1_CELL_9-2
+Removed Pin From Net: NetName=C10 Pin=C1_CELL_10-2
+Removed Pin From Net: NetName=C11+ Pin=C1_CELL_11-2
+Removed Pin From Net: NetName=C1 Pin=R1_CELL_1-1
+Removed Pin From Net: NetName=C2 Pin=R1_CELL_2-1
+Removed Pin From Net: NetName=C3 Pin=R1_CELL_3-1
+Removed Pin From Net: NetName=C4 Pin=R1_CELL_4-1
+Removed Pin From Net: NetName=C5 Pin=R1_CELL_5-1
+Removed Pin From Net: NetName=C6 Pin=R1_CELL_6-1
+Removed Pin From Net: NetName=C7 Pin=R1_CELL_7-1
+Removed Pin From Net: NetName=C8 Pin=R1_CELL_8-1
+Removed Pin From Net: NetName=C9 Pin=R1_CELL_9-1
+Removed Pin From Net: NetName=C10 Pin=R1_CELL_10-1
+Removed Pin From Net: NetName=C10 Pin=U1-6
+Removed Pin From Net: NetName=C9 Pin=U1-8
+Removed Pin From Net: NetName=C8 Pin=U1-10
+Removed Pin From Net: NetName=C7 Pin=U1-12
+Removed Pin From Net: NetName=C6 Pin=U1-14
+Removed Pin From Net: NetName=C5 Pin=U1-16
+Removed Pin From Net: NetName=C4 Pin=U1-18
+Removed Pin From Net: NetName=C3 Pin=U1-20
+Removed Pin From Net: NetName=C2 Pin=U1-22
+Removed Pin From Net: NetName=C1 Pin=U1-24
+Added Pin To Net: NetName=C11 Pin=C1_CELL_11-2
+Change Net Name : Old Net Name=C1 New Net Name=C1_+
+Change Net Name : Old Net Name=C2 New Net Name=C2_+
+Change Net Name : Old Net Name=C3 New Net Name=C3_+
+Change Net Name : Old Net Name=C4 New Net Name=C4_+
+Change Net Name : Old Net Name=C5 New Net Name=C5_+
+Change Net Name : Old Net Name=C6 New Net Name=C6_+
+Change Net Name : Old Net Name=C7 New Net Name=C7_+
+Change Net Name : Old Net Name=C8 New Net Name=C8_+
+Change Net Name : Old Net Name=C9 New Net Name=C9_+
+Change Net Name : Old Net Name=C10 New Net Name=C10_+
+Change Net Name : Old Net Name=C11+ New Net Name=C11_+
+Added Pin To Net: NetName=C1 Pin=C1_CELL_1-2
+Added Pin To Net: NetName=C1 Pin=R1_CELL_1-1
+Added Pin To Net: NetName=C1 Pin=U1-24
+Added Net: Name=C1
+Added Pin To Net: NetName=C2 Pin=C1_CELL_2-2
+Added Pin To Net: NetName=C2 Pin=R1_CELL_2-1
+Added Pin To Net: NetName=C2 Pin=U1-22
+Added Net: Name=C2
+Added Pin To Net: NetName=C3 Pin=C1_CELL_3-2
+Added Pin To Net: NetName=C3 Pin=R1_CELL_3-1
+Added Pin To Net: NetName=C3 Pin=U1-20
+Added Net: Name=C3
+Added Pin To Net: NetName=C4 Pin=C1_CELL_4-2
+Added Pin To Net: NetName=C4 Pin=R1_CELL_4-1
+Added Pin To Net: NetName=C4 Pin=U1-18
+Added Net: Name=C4
+Added Pin To Net: NetName=C5 Pin=C1_CELL_5-2
+Added Pin To Net: NetName=C5 Pin=R1_CELL_5-1
+Added Pin To Net: NetName=C5 Pin=U1-16
+Added Net: Name=C5
+Added Pin To Net: NetName=C6 Pin=C1_CELL_6-2
+Added Pin To Net: NetName=C6 Pin=R1_CELL_6-1
+Added Pin To Net: NetName=C6 Pin=U1-14
+Added Net: Name=C6
+Added Pin To Net: NetName=C7 Pin=C1_CELL_7-2
+Added Pin To Net: NetName=C7 Pin=R1_CELL_7-1
+Added Pin To Net: NetName=C7 Pin=U1-12
+Added Net: Name=C7
+Added Pin To Net: NetName=C8 Pin=C1_CELL_8-2
+Added Pin To Net: NetName=C8 Pin=R1_CELL_8-1
+Added Pin To Net: NetName=C8 Pin=U1-10
+Added Net: Name=C8
+Added Pin To Net: NetName=C9 Pin=C1_CELL_9-2
+Added Pin To Net: NetName=C9 Pin=R1_CELL_9-1
+Added Pin To Net: NetName=C9 Pin=U1-8
+Added Net: Name=C9
+Added Pin To Net: NetName=C10 Pin=C1_CELL_10-2
+Added Pin To Net: NetName=C10 Pin=R1_CELL_10-1
+Added Pin To Net: NetName=C10 Pin=U1-6
+Added Net: Name=C10

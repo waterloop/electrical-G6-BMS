@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=U1 Old Footprint=LTC6811IG-2#3ZZPBF New Footprint=LTC6811-1
+Added Member To Class: ClassName=Chip Member=Component U1 LTC6811HG-1#3ZZTRPBF
