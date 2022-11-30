@@ -1,0 +1,82 @@
+Removed Pin From Net: NetName=ISO-12V Pin=J9-1
+Removed Pin From Net: NetName=NetJ9_2 Pin=J9-2
+Removed Pin From Net: NetName=NetJ10_1 Pin=J10-1
+Removed Pin From Net: NetName=ISO-12V Pin=J10-2
+Removed Pin From Net: NetName=ISO-12V Pin=J11-1
+Removed Pin From Net: NetName=NetJ11_2 Pin=J11-2
+Removed Pin From Net: NetName=NetJ13_1 Pin=J13-1
+Removed Pin From Net: NetName=ISO-12V Pin=J13-2
+Removed Pin From Net: NetName=NetC10_2 Pin=J14-1
+Removed Pin From Net: NetName=ISO-GND Pin=J14-2
+Removed Pin From Net: NetName=NetC11_2 Pin=J15-1
+Removed Pin From Net: NetName=ISO-GND Pin=J15-2
+Removed Pin From Net: NetName=ISO-GND Pin=J16-1
+Removed Pin From Net: NetName=NetC8_2 Pin=J16-2
+Removed Pin From Net: NetName=ISO-GND Pin=J17-1
+Removed Pin From Net: NetName=NetC9_2 Pin=J17-2
+Removed Member From Class: ClassName=Connectors Member=J13
+Removed Member From Class: ClassName=Connectors Member=J14
+Removed Member From Class: ClassName=Connectors Member=J15
+Removed Member From Class: ClassName=Connectors Member=J16
+Removed Member From Class: ClassName=Connectors Member=J17
+Change component parameters: Designator = "F3" ("F3"); Footprint = "3557-2"; UniqueID = "\YUEJZBSI\WYONFXTY" ("\YUEJZBSI\WYONFXTY")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200mA"; VariantName = "[No Variations]"
+Added Component: Designator=J9(MOLEX0039301042)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/sd/039301042_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0039301042"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "WM21364-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J10(MOLEX0039301042)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/sd/039301042_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0039301042"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "WM21364-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J11(MOLEX0039301042)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/sd/039301042_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0039301042"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "WM21364-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J12(MOLEX0039301042)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/sd/039301042_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0039301042"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "WM21364-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ISO-12V Pin=J9-1
+Added Pin To Net: NetName=NetJ9_2 Pin=J9-2
+Added Pin To Net: NetName=NetC10_2 Pin=J9-3
+Added Pin To Net: NetName=ISO-GND Pin=J9-4
+Added Pin To Net: NetName=ISO-GND Pin=J10-1
+Added Pin To Net: NetName=NetC8_2 Pin=J10-2
+Added Pin To Net: NetName=NetJ10_1 Pin=J10-3
+Added Pin To Net: NetName=ISO-12V Pin=J10-4
+Added Pin To Net: NetName=ISO-12V Pin=J11-1
+Added Pin To Net: NetName=NetJ11_2 Pin=J11-2
+Added Pin To Net: NetName=NetC11_2 Pin=J11-3
+Added Pin To Net: NetName=ISO-GND Pin=J11-4
+Added Pin To Net: NetName=ISO-GND Pin=J12-1
+Added Pin To Net: NetName=NetC9_2 Pin=J12-2
+Added Pin To Net: NetName=NetJ13_1 Pin=J12-3
+Added Pin To Net: NetName=ISO-12V Pin=J12-4
+Added Pin To Net: NetName=ADC_ISense Pin=TP2-1
+Change Net Name : Old Net Name=NetJ10_1 New Net Name=NetJ10_3
+Change Net Name : Old Net Name=NetJ13_1 New Net Name=NetJ12_3
+Added Member To Class: ClassName=Connectors Member=Component J12 MOLEX0039301042
+Added Room: Name=Connectors
+Added Room: Name=U_Contactor
+Added Room: Name=U_ISO_SPI
+Added Room: Name=U_LV_Sensing
+Added Room: Name=U_MCU_Platform
+Added Room: Name=U_Precharge
