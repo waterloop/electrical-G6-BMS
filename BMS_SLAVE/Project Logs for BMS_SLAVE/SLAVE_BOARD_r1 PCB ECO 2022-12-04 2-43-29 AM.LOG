@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GPIO1 Pin=U1-27
+Removed Pin From Net: NetName=GPIO2 Pin=U1-28
+Removed Pin From Net: NetName=GPIO4 Pin=U1-32
+Removed Pin From Net: NetName=GPIO5 Pin=U1-33
+Added Pin To Net: NetName=GPIO5 Pin=U1-27
+Added Pin To Net: NetName=GPIO4 Pin=U1-28
+Added Pin To Net: NetName=GPIO2 Pin=U1-32
+Added Pin To Net: NetName=GPIO1 Pin=U1-33
+Added Member To Class: ClassName=Chip Member=Component R12 Resistor
+Added Member To Class: ClassName=Chip Member=Component R13 Resistor

@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=C0 Pin=C1_CELL_1-1
+Removed Pin From Net: NetName=C0 Pin=U1-26
+Added Component: Designator=C1_CELL_0(0603 - Capacitor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Added Component: Designator=R1_CELL_0(0805 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R2_CELL_0(0805 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "75"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=C0 Pin=C1_CELL_0-1
+Change Net Name : Old Net Name=C0 New Net Name=C0_+
+Added Pin To Net: NetName=C0 Pin=C1_CELL_0-2
+Added Pin To Net: NetName=C0 Pin=R1_CELL_0-1
+Added Pin To Net: NetName=C0 Pin=U1-26
+Added Net: Name=C0
+Added Pin To Net: NetName=NetC1_CELL_1_1 Pin=C1_CELL_1-1
+Added Pin To Net: NetName=NetC1_CELL_1_1 Pin=R1_CELL_0-2
+Added Pin To Net: NetName=NetC1_CELL_1_1 Pin=R2_CELL_0-2
+Added Net: Name=NetC1_CELL_1_1
+Added Pin To Net: NetName=NetR2_CELL_0_1 Pin=R2_CELL_0-1
+Added Net: Name=NetR2_CELL_0_1
+Added Class: Name=CELL_0
+Added Member To Class: ClassName=Cell Balancing Member=CELL_0 (Cell Balancing.SchDoc)
+Added Room: Name=CELL_0

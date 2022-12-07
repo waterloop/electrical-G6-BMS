@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=ISO_IB_N Pin=J1-1
+Removed Pin From Net: NetName=ISO_IB_P Pin=J1-2
+Removed Pin From Net: NetName=ISO_IA_P Pin=J2-1
+Removed Pin From Net: NetName=ISO_IA_N Pin=J2-2
+Removed Member From Class: ClassName=Monitoring IC Member=J1
+Removed Member From Class: ClassName=Monitoring IC Member=J2
+Change Component Designator: OldDesignator=J6 NewDesignator=J6_U_RJ45 Connector1
+Added Component: Designator=J6_U_RJ45 Connector2(MTJ-88ARX1-FSM-LV)
+Added Pin To Net: NetName=ISO_IB_P Pin=J6_U_RJ45 Connector2-7
+Added Pin To Net: NetName=ISO_IB_N Pin=J6_U_RJ45 Connector2-8
+Added Pin To Net: NetName=C0 Pin=J6_U_RJ45 Connector2-9
+Added Pin To Net: NetName=C0 Pin=J6_U_RJ45 Connector2-10
+Added Pin To Net: NetName=C0 Pin=J6_U_RJ45 Connector2-11
+Added Pin To Net: NetName=C0 Pin=J6_U_RJ45 Connector2-12
+Added Pin To Net: NetName=C0 Pin=J6_U_RJ45 Connector2-MH1
+Added Pin To Net: NetName=C0 Pin=J6_U_RJ45 Connector2-MH2
+Change Net Name : Old Net Name=NetJ6_1 New Net Name=NetJ6_U_RJ45 Connector1_1
+Change Net Name : Old Net Name=NetJ6_2 New Net Name=NetJ6_U_RJ45 Connector1_2
+Change Net Name : Old Net Name=NetJ6_3 New Net Name=NetJ6_U_RJ45 Connector1_3
+Change Net Name : Old Net Name=NetJ6_4 New Net Name=NetJ6_U_RJ45 Connector1_4
+Change Net Name : Old Net Name=NetJ6_5 New Net Name=NetJ6_U_RJ45 Connector1_5
+Change Net Name : Old Net Name=NetJ6_6 New Net Name=NetJ6_U_RJ45 Connector1_6
+Added Pin To Net: NetName=NetJ6_U_RJ45 Connector2_1 Pin=J6_U_RJ45 Connector2-1
+Added Net: Name=NetJ6_U_RJ45 Connector2_1
+Added Pin To Net: NetName=NetJ6_U_RJ45 Connector2_2 Pin=J6_U_RJ45 Connector2-2
+Added Net: Name=NetJ6_U_RJ45 Connector2_2
+Added Pin To Net: NetName=NetJ6_U_RJ45 Connector2_3 Pin=J6_U_RJ45 Connector2-3
+Added Net: Name=NetJ6_U_RJ45 Connector2_3
+Added Pin To Net: NetName=NetJ6_U_RJ45 Connector2_4 Pin=J6_U_RJ45 Connector2-4
+Added Net: Name=NetJ6_U_RJ45 Connector2_4
+Added Pin To Net: NetName=NetJ6_U_RJ45 Connector2_5 Pin=J6_U_RJ45 Connector2-5
+Added Net: Name=NetJ6_U_RJ45 Connector2_5
+Added Pin To Net: NetName=NetJ6_U_RJ45 Connector2_6 Pin=J6_U_RJ45 Connector2-6
+Added Net: Name=NetJ6_U_RJ45 Connector2_6
+Change Class Name : Old Net Name=U_RJ45 Connector New Net Name=U_RJ45 Connector1
+Added Class: Name=U_RJ45 Connector2
+Added Class: Name=RJ45 Connector
+Added Room: Name=U_RJ45 Connector1
+Added Room: Name=U_RJ45 Connector2
