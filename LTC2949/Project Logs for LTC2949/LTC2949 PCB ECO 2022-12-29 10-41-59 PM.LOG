@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=TP1 Old Footprint=Test Point New Footprint=Test Point - 5002
+Change Component Footprint: Designator=TP2 Old Footprint=Test Point New Footprint=Test Point - 5002
+Change Component Footprint: Designator=TP3 Old Footprint=Test Point New Footprint=Test Point - 5002
+Change Component Footprint: Designator=TP4 Old Footprint=Test Point New Footprint=Test Point - 5002
+Added Pin To Net: NetName=I1_P Pin=J6-1
+Added Pin To Net: NetName=I1_P Pin=R10-2
+Added Pin To Net: NetName=I1_P Pin=TP1-1
+Added Pin To Net: NetName=I1_P Pin=U1-45
+Added Member To Class: ClassName=MAIN IC Member=Component J7 MOLEX0050361758
+Added Room: Name=CONNECTORS
+Added Room: Name=MAIN IC

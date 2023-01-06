@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=V1 Pin=P5-1
+Change Class Name : Old Net Name=V[2..12] New Net Name=V[1..12]
+Added Member To Class: ClassName=V[1..12] Member=Element[-1]: 

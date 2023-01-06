@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=I2_P Pin=R10-1
+Removed Pin From Net: NetName=I2_N Pin=R12-1
+Removed Pin From Net: NetName=I1_N Pin=R12-2
+Removed Member From Class: ClassName=MAIN IC Member=R10
+Removed Member From Class: ClassName=MAIN IC Member=R12
+Added Pin To Net: NetName=I1_P Pin=J6-1
+Added Pin To Net: NetName=I1_P Pin=TP1-1
+Added Pin To Net: NetName=I1_P Pin=U1-45
+Added Room: Name=CONNECTORS
+Added Room: Name=MAIN IC

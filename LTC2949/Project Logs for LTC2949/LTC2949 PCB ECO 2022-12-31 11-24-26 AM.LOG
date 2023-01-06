@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetC5_1 Pin=TP5-1
+Removed Pin From Net: NetName=IOVCC Pin=TP6-1
+Removed Member From Class: ClassName=MAIN IC Member=TP5
+Removed Member From Class: ClassName=MAIN IC Member=TP6

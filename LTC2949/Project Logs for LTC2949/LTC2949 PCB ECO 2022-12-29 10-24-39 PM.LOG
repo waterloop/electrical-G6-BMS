@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetU1_48 Pin=VBATP1-1
+Removed Member From Class: ClassName=MAIN IC Member=VBATP1
+Change Component Designator: OldDesignator=VBATM1 NewDesignator=VBATM
+Change Component Designator: OldDesignator=VBATP2 NewDesignator=V1
+Added Component: Designator=VBATP(Test Point)
+Added Pin To Net: NetName=I1_P Pin=J6-1
+Added Pin To Net: NetName=I1_P Pin=R10-2
+Added Pin To Net: NetName=I1_P Pin=TP1-1
+Added Pin To Net: NetName=I1_P Pin=U1-45
+Added Pin To Net: NetName=NetU1_48 Pin=VBATP-1
+Change Differential Pair Positive Net Name : Old Net Name=I1_P New Net Name=I1_P
+Added Member To Class: ClassName=MAIN IC Member=Component VBATP Test Point
+Added Room: Name=CONNECTORS
+Added Room: Name=MAIN IC

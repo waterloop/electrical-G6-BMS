@@ -1,0 +1,29 @@
+Change Component Footprint: Designator=VBATP Old Footprint=Test Point New Footprint=Test Point - 5002
+Added Component: Designator=J6(Molex0050361758)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/ps/PS-5556-001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0050361758"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "0050361758-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J7(Molex0050361758)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/ps/PS-5556-001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0050361758"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "0050361758-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=I1_P Pin=J6-1
+Added Pin To Net: NetName=NetJ2_2 Pin=J6-2
+Added Pin To Net: NetName=I1_N Pin=J7-1
+Added Pin To Net: NetName=BGND Pin=J7-2
+Added Pin To Net: NetName=I1_P Pin=R10-2
+Added Pin To Net: NetName=I1_P Pin=TP1-1
+Added Pin To Net: NetName=I1_P Pin=U1-45
+Added Pin To Net: NetName=NetC8_2 Pin=U1-48
+Added Pin To Net: NetName=NetC8_2 Pin=VBATP-1
+Added Member To Class: ClassName=MAIN IC Member=Component J6 MOLEX0050361758
+Added Member To Class: ClassName=MAIN IC Member=Component J7 MOLEX0050361758
+Added Member To Class: ClassName=MAIN IC Member=Component J8 MOLEX0050361758
+Added Room: Name=CONNECTORS
+Added Room: Name=MAIN IC

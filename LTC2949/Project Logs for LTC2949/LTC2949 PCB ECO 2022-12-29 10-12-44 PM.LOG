@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=I1_N Pin=J2-2
+Removed Pin From Net: NetName=I1_P Pin=J5-2
+Removed Pin From Net: NetName=I1_P Pin=R10-2
+Removed Pin From Net: NetName=I1_N Pin=R12-1
+Removed Pin From Net: NetName=I1_N Pin=R12-2
+Removed Pin From Net: NetName=I1_P Pin=TP1-1
+Removed Pin From Net: NetName=I1_N Pin=TP3-1
+Removed Pin From Net: NetName=I1_N Pin=TP4-1
+Removed Pin From Net: NetName=I1_N Pin=U1-41
+Removed Pin From Net: NetName=I1_N Pin=U1-42
+Removed Pin From Net: NetName=I1_P Pin=U1-45
+Removed Pin From Net: NetName=Net*_1 Pin=U1-49
+Added Component: Designator=J6(Molex0050361758)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/ps/PS-5556-001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0050361758"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "0050361758-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J7(Molex0050361758)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/ps/PS-5556-001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0050361758"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "0050361758-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J8(Molex0050361758)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/ps/PS-5556-001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0050361758"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "0050361758-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=I1_N Pin=J7-2
+Added Pin To Net: NetName=I1_N Pin=J8-2
+Added Pin To Net: NetName=I1_N Pin=U1-49
+Change Net Name : Old Net Name=I1_N New Net Name=BGND
+Change Net Name : Old Net Name=I1_P New Net Name=I2_P
+Added Pin To Net: NetName=I1_N Pin=J7-1
+Added Pin To Net: NetName=I1_N Pin=R12-2
+Added Pin To Net: NetName=I1_N Pin=TP3-1
+Added Pin To Net: NetName=I1_N Pin=U1-42
+Added Net: Name=I1_N
+Added Pin To Net: NetName=I1_P Pin=J6-1
+Added Pin To Net: NetName=I1_P Pin=R10-2
+Added Pin To Net: NetName=I1_P Pin=TP1-1
+Added Pin To Net: NetName=I1_P Pin=U1-45
+Added Net: Name=I1_P
+Added Pin To Net: NetName=I2_N Pin=J8-1
+Added Pin To Net: NetName=I2_N Pin=R12-1
+Added Pin To Net: NetName=I2_N Pin=TP4-1
+Added Pin To Net: NetName=I2_N Pin=U1-41
+Added Net: Name=I2_N
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=J5-2
+Added Pin To Net: NetName=NetJ2_2 Pin=J6-2
+Added Net: Name=NetJ2_2
+Added Differential Pair: Name=I2
+Added Member To Class: ClassName=MAIN IC Member=Component J6 MOLEX0050361758
+Added Member To Class: ClassName=MAIN IC Member=Component J7 MOLEX0050361758
+Added Member To Class: ClassName=MAIN IC Member=Component J8 MOLEX0050361758
+Added Room: Name=CONNECTORS
+Added Room: Name=MAIN IC
