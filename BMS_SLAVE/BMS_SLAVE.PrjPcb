@@ -320,6 +320,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JGVOULSU
 
+[Document17]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=A8E525F2-9AF5-4601-A2DD-CDC54851C9C0
 Description=START_CHAIN
@@ -365,6 +382,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1317,6 +1337,34 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=IM_PRI1_N|NetColor=$00FFFF6E
+Net2=NetName=IM_PRI2_N|NetColor=$00FFFF6E
+Net3=NetName=IP_PRI1_P|NetColor=clFuchsia
+Net4=NetName=IP_PRI2_P|NetColor=clFuchsia
+Net5=NetName=ISO1_N|NetColor=$00FFFF6E
+Net6=NetName=ISO1_P|NetColor=clFuchsia
+Net7=NetName=ISO2_N|NetColor=$00FFFF6E
+Net8=NetName=ISO2_P|NetColor=clFuchsia
+Net9=NetName=NetJ6_7|NetColor=clFuchsia
+Net10=NetName=NetJ6_8|NetColor=$00FFFF6E
+Net11=NetName=NetJ6_U_RJ45 Connector1_7|NetColor=clFuchsia
+Net12=NetName=NetJ6_U_RJ45 Connector1_8|NetColor=$00FFFF6E
+Net13=NetName=NetJ6_U_RJ45 Connector2_7|NetColor=clFuchsia
+Net14=NetName=NetJ6_U_RJ45 Connector2_8|NetColor=$00FFFF6E
+Net15=NetName=NetR17_1|NetColor=$00FFFF6E
+Net16=NetName=NetR17_2|NetColor=clFuchsia
+Net17=NetName=NetR18_1|NetColor=clFuchsia
+Net18=NetName=NetR18_2|NetColor=$00FFFF6E
+Net19=NetName=NetU1_41|NetColor=$00FFFF6E
+Net20=NetName=NetU1_42|NetColor=clFuchsia
+Net21=NetName=NetU1_47|NetColor=$00FFFF6E
+Net22=NetName=NetU1_48|NetColor=clFuchsia
+Net23=NetName=PRI1_N|NetColor=$00FFFF6E
+Net24=NetName=PRI1_P|NetColor=clFuchsia
+Net25=NetName=PRI2_N|NetColor=$00FFFF6E
+Net26=NetName=PRI2_P|NetColor=clFuchsia
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
