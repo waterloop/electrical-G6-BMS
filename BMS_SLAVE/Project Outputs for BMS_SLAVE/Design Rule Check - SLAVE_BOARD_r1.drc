@@ -1,11 +1,10 @@
 Protel Design System Design Rule Check
 PCB File : C:\Waterloop\electrical-G6-BMS\slave_rev1\BMS_SLAVE\SLAVE_BOARD_r1.PcbDoc
-Date     : 2022-11-29
-Time     : 10:48:02 PM
+Date     : 2023-02-07
+Time     : 3:31:54 PM
 
 Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
-   Violation between Clearance Constraint: (0.156mm < 0.2mm) Between Pad R2_CELL_1-1(22.6mm,24.103mm) on Top Layer And Track (21.647mm,23.447mm)(23.487mm,23.447mm) on Top Layer 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -19,7 +18,7 @@ Rule Violations :0
 Processing Rule : Width Constraint (Min=0.127mm) (Max=1mm) (Preferred=0.5mm) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
 Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6.3mm) (All)
@@ -40,101 +39,46 @@ Rule Violations :0
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
-Processing Rule : Room CELL_9 (Bounding Region = (35.458mm, 57.413mm, 39.209mm, 62.257mm) (InComponentClass('CELL_9'))
+Processing Rule : Room CELL_10 (Bounding Region = (39.007mm, 60.07mm, 44.728mm, 63.845mm) (InComponentClass('CELL_10'))
 Rule Violations :0
 
-Processing Rule : Room IB (Bounding Region = (55.582mm, 62.316mm, 64.382mm, 81.758mm) (InComponentClass('IB'))
+Processing Rule : Room CELL_6 (Bounding Region = (33.236mm, 48.775mm, 38.358mm, 52.235mm) (InComponentClass('CELL_6'))
 Rule Violations :0
 
-Processing Rule : Room CELL_8 (Bounding Region = (31.225mm, 56.697mm, 34.976mm, 61.541mm) (InComponentClass('CELL_8'))
+Processing Rule : Room CELL_2 (Bounding Region = (40.656mm, 38.861mm, 45.406mm, 42.321mm) (InComponentClass('CELL_2'))
 Rule Violations :0
 
-Processing Rule : Room CELL_10 (Bounding Region = (39.057mm, 58.806mm, 44.777mm, 62.581mm) (InComponentClass('CELL_10'))
+Processing Rule : Room CELL_4 (Bounding Region = (30.699mm, 38.847mm, 35.449mm, 42.307mm) (InComponentClass('CELL_4'))
 Rule Violations :0
 
-Processing Rule : Room CELL_5 (Bounding Region = (32.175mm, 47.1mm, 37.331mm, 50.529mm) (InComponentClass('CELL_5'))
+Processing Rule : Room CELL_9 (Bounding Region = (33.243mm, 60.108mm, 39.027mm, 63.483mm) (InComponentClass('CELL_9'))
 Rule Violations :0
 
-Processing Rule : Room Chip (Bounding Region = (39.606mm, 39.98mm, 65.71mm, 67.335mm) (InComponentClass('Chip'))
+Processing Rule : Room Chip (Bounding Region = (39.606mm, 37.205mm, 84.706mm, 67.335mm) (InComponentClass('Chip'))
+Rule Violations :0
+
+Processing Rule : Room CELL_1 (Bounding Region = (45.752mm, 38.814mm, 51.473mm, 42.589mm) (InComponentClass('CELL_1'))
+Rule Violations :0
+
+Processing Rule : Room CELL_3 (Bounding Region = (34.942mm, 38.815mm, 40.662mm, 42.59mm) (InComponentClass('CELL_3'))
+Rule Violations :0
+
+Processing Rule : Room CELL_5 (Bounding Region = (33.651mm, 44.472mm, 38.807mm, 47.901mm) (InComponentClass('CELL_5'))
+Rule Violations :0
+
+Processing Rule : Room CELL_8 (Bounding Region = (33.585mm, 55.965mm, 38.28mm, 59.468mm) (InComponentClass('CELL_8'))
+Rule Violations :0
+
+Processing Rule : Room CELL_7 (Bounding Region = (33.465mm, 52.045mm, 39.492mm, 55.569mm) (InComponentClass('CELL_7'))
 Rule Violations :0
 
 Processing Rule : Room CELL_11 (Bounding Region = (43.959mm, 58.899mm, 49.68mm, 62.674mm) (InComponentClass('CELL_11'))
 Rule Violations :0
 
-Processing Rule : Room IA (Bounding Region = (64.677mm, 48.624mm, 84.118mm, 57.424mm) (InComponentClass('IA'))
-Rule Violations :0
-
-Processing Rule : Room CELL_4 (Bounding Region = (30.251mm, 41.159mm, 35.001mm, 44.619mm) (InComponentClass('CELL_4'))
-Rule Violations :0
-
-Processing Rule : Room CELL_2 (Bounding Region = (40.208mm, 41.172mm, 44.958mm, 44.632mm) (InComponentClass('CELL_2'))
-Rule Violations :0
-
-Processing Rule : Room CELL_1 (Bounding Region = (45.305mm, 41.125mm, 51.025mm, 44.9mm) (InComponentClass('CELL_1'))
-Rule Violations :0
-
-Processing Rule : Room CELL_3 (Bounding Region = (34.494mm, 41.126mm, 40.215mm, 44.901mm) (InComponentClass('CELL_3'))
-Rule Violations :0
-
-Processing Rule : Room CELL_7 (Bounding Region = (29.574mm, 52.079mm, 33.325mm, 56.923mm) (InComponentClass('CELL_7'))
-Rule Violations :0
-
-Processing Rule : Room CELL_6 (Bounding Region = (33.553mm, 51.197mm, 38.675mm, 54.657mm) (InComponentClass('CELL_6'))
-Rule Violations :0
-
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
-Waived Violations Of Rule : Minimum Solder Mask Sliver (Gap=0.2mm) (All),(All)
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-1(17.962mm,37.544mm) on Top Layer And Pad U1-2(17.962mm,37.044mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-10(17.962mm,33.044mm) on Top Layer And Pad U1-11(17.962mm,32.544mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-10(17.962mm,33.044mm) on Top Layer And Pad U1-9(17.962mm,33.544mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-11(17.962mm,32.544mm) on Top Layer And Pad U1-12(17.962mm,32.044mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-12(17.962mm,32.044mm) on Top Layer And Pad U1-13(17.962mm,31.544mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-13(17.962mm,31.544mm) on Top Layer And Pad U1-14(17.962mm,31.044mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-14(17.962mm,31.044mm) on Top Layer And Pad U1-15(17.962mm,30.544mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-15(17.962mm,30.544mm) on Top Layer And Pad U1-16(17.962mm,30.044mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-16(17.962mm,30.044mm) on Top Layer And Pad U1-17(17.962mm,29.544mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-17(17.962mm,29.544mm) on Top Layer And Pad U1-18(17.962mm,29.044mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-18(17.962mm,29.044mm) on Top Layer And Pad U1-19(17.962mm,28.544mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-19(17.962mm,28.544mm) on Top Layer And Pad U1-20(17.962mm,28.044mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-2(17.962mm,37.044mm) on Top Layer And Pad U1-3(17.962mm,36.544mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-20(17.962mm,28.044mm) on Top Layer And Pad U1-21(17.962mm,27.544mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-21(17.962mm,27.544mm) on Top Layer And Pad U1-22(17.962mm,27.044mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-22(17.962mm,27.044mm) on Top Layer And Pad U1-23(17.962mm,26.544mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-23(17.962mm,26.544mm) on Top Layer And Pad U1-24(17.962mm,26.044mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-25(24.912mm,26.044mm) on Top Layer And Pad U1-26(24.912mm,26.544mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-26(24.912mm,26.544mm) on Top Layer And Pad U1-27(24.912mm,27.044mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-27(24.912mm,27.044mm) on Top Layer And Pad U1-28(24.912mm,27.544mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-28(24.912mm,27.544mm) on Top Layer And Pad U1-29(24.912mm,28.044mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-29(24.912mm,28.044mm) on Top Layer And Pad U1-30(24.912mm,28.544mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-3(17.962mm,36.544mm) on Top Layer And Pad U1-4(17.962mm,36.044mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-30(24.912mm,28.544mm) on Top Layer And Pad U1-31(24.912mm,29.044mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-31(24.912mm,29.044mm) on Top Layer And Pad U1-32(24.912mm,29.544mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-32(24.912mm,29.544mm) on Top Layer And Pad U1-33(24.912mm,30.044mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-33(24.912mm,30.044mm) on Top Layer And Pad U1-34(24.912mm,30.544mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-34(24.912mm,30.544mm) on Top Layer And Pad U1-35(24.912mm,31.044mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-35(24.912mm,31.044mm) on Top Layer And Pad U1-36(24.912mm,31.544mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-36(24.912mm,31.544mm) on Top Layer And Pad U1-37(24.912mm,32.044mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-37(24.912mm,32.044mm) on Top Layer And Pad U1-38(24.912mm,32.544mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-38(24.912mm,32.544mm) on Top Layer And Pad U1-39(24.912mm,33.044mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-39(24.912mm,33.044mm) on Top Layer And Pad U1-40(24.912mm,33.544mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:16:43 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-4(17.962mm,36.044mm) on Top Layer And Pad U1-5(17.962mm,35.544mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:17:04 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-40(24.912mm,33.544mm) on Top Layer And Pad U1-41(24.912mm,34.044mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:17:04 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-41(24.912mm,34.044mm) on Top Layer And Pad U1-42(24.912mm,34.544mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:17:04 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-42(24.912mm,34.544mm) on Top Layer And Pad U1-43(24.912mm,35.044mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:17:04 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-43(24.912mm,35.044mm) on Top Layer And Pad U1-44(24.912mm,35.544mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:17:04 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-44(24.912mm,35.544mm) on Top Layer And Pad U1-45(24.912mm,36.044mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:17:04 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-45(24.912mm,36.044mm) on Top Layer And Pad U1-46(24.912mm,36.544mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:17:04 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-46(24.912mm,36.544mm) on Top Layer And Pad U1-47(24.912mm,37.044mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:17:04 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-47(24.912mm,37.044mm) on Top Layer And Pad U1-48(24.912mm,37.544mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:17:04 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-5(17.962mm,35.544mm) on Top Layer And Pad U1-6(17.962mm,35.044mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:17:04 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-6(17.962mm,35.044mm) on Top Layer And Pad U1-7(17.962mm,34.544mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:17:04 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-7(17.962mm,34.544mm) on Top Layer And Pad U1-8(17.962mm,34.044mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:17:04 PMThis is the chosen footprint, can't do much
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.2mm) Between Pad U1-8(17.962mm,34.044mm) on Top Layer And Pad U1-9(17.962mm,33.544mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]Waived by Akshat Doctor at 2022-11-29 10:17:04 PMThis is the chosen footprint, can't do much
-Waived Violations :46
 
-
-Violations Detected : 1
-Waived Violations : 46
-Time Elapsed        : 00:00:02
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:01
