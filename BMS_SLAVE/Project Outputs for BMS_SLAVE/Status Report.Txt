@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [SLAVE_BOARD_r1.PcbDoc]
+   Generated File[SLAVE_BOARD_r1.TXT]
+   Generated File[SLAVE_BOARD_r1.LDP]
+   Generated File[SLAVE_BOARD_r1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:00:42 AM On 2023-03-25

@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\navey\Documents\Git\electrical-G6-BMS\slave_rev1\BMS_SLAVE\SLAVE_BOARD_r1.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
