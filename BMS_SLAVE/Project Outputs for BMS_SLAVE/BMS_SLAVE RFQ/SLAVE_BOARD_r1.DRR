@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: SLAVE_BOARD_r1.PcbDoc   2023-03-25  9:00:42 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : SLAVE_BOARD_r1.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.25mm)                                            Round             27        PTH        9.75inch (247.68mm)
+T2      35mil (0.9mm)                                             Round             24        PTH        2.98inch (75.72mm)
+T3      63mil (1.6mm)                                             Round             4         PTH        1.48inch (37.63mm)
+T4      73mil (1.85mm)                                            Round             18        PTH        4.44inch (112.77mm)
+T5      120mil (3.05mm)                                           Round             6         PTH        4.91inch (124.82mm)
+T6      177mil (4.5mm)                                            Round             4         PTH        8.02inch (203.73mm)
+T7      126mil (3.2mm)                                            Round             4         NPTH       1.34inch (34.08mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              87
+
+Total Processing Time (hh:mm:ss) : 00:00:00
